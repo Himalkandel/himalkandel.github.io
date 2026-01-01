@@ -1,30 +1,48 @@
 let quiz = null;
 let index = 0;
 let answers = {};
-let saved = {};
+let quizKey = "";
+let resumeSession = false;
 
 /* Load quiz */
 function loadQuiz(file) {
+  quizKey = `examSession_${file}`;
+
   fetch(`../data/quizzes/${file}`)
     .then(res => res.json())
     .then(data => {
       quiz = data;
-      index = 0;
-      answers = {};
-      saved = {};
 
       document.getElementById("quizSelect").classList.add("hidden");
       document.getElementById("intro").classList.remove("hidden");
 
       document.getElementById("title").textContent = quiz.title;
       document.getElementById("count").textContent = quiz.questions.length;
+
+      const session = localStorage.getItem(quizKey);
+
+      if (session) {
+        if (confirm("You have a saved exam.\n\nContinue where you left off?")) {
+          const parsed = JSON.parse(session);
+          answers = parsed.answers || {};
+          index = parsed.index ?? 0;
+          resumeSession = true;
+        } else {
+          localStorage.removeItem(quizKey);
+          answers = {};
+          index = 0;
+          resumeSession = false;
+        }
+      }
     });
 }
 
-/* Start */
+/* Start exam */
 function startQuiz() {
   document.getElementById("intro").classList.add("hidden");
   document.getElementById("exam").classList.remove("hidden");
+
+  // IMPORTANT: do not reset index/answers here
   render();
 }
 
@@ -47,15 +65,17 @@ function render() {
     div.textContent = opt;
     div.onclick = () => {
       answers[index] = i;
+      autoSave();
       render();
     };
     choices.appendChild(div);
   });
 
+  updateNextButton();
   renderNav();
 }
 
-/* Small navigation buttons */
+/* Navigation grid */
 function renderNav() {
   const nav = document.getElementById("questionNav");
   nav.innerHTML = "";
@@ -66,40 +86,40 @@ function renderNav() {
 
     if (i === index) btn.classList.add("current");
     if (answers[i] !== undefined) btn.classList.add("answered");
-    if (saved[i]) btn.classList.add("saved");
 
     btn.onclick = () => {
       index = i;
+      autoSave();
       render();
     };
 
     nav.appendChild(btn);
   });
-
-  renderLegend();
 }
 
-/* Legend */
-function renderLegend() {
-  let legend = document.getElementById("legend");
-  if (!legend) {
-    legend = document.createElement("div");
-    legend.id = "legend";
-    legend.className = "legend";
-    document.getElementById("exam").appendChild(legend);
-  }
+/* Auto-save ENTIRE exam */
+function autoSave() {
+  localStorage.setItem(
+    quizKey,
+    JSON.stringify({
+      answers,
+      index,
+      updatedAt: Date.now()
+    })
+  );
+}
 
-  legend.innerHTML = `
-    <span><div class="legend-box legend-current"></div> Current</span>
-    <span><div class="legend-box legend-answered"></div> Answered</span>
-    <span><div class="legend-box legend-saved"></div> Saved</span>
-  `;
+/* SAVE & EXIT */
+function saveAndExit() {
+  autoSave();
+  window.location.href = "../main.html";
 }
 
 /* Navigation */
 function nextQuestion() {
   if (index < quiz.questions.length - 1) {
     index++;
+    autoSave();
     render();
   } else {
     finishQuiz();
@@ -109,18 +129,21 @@ function nextQuestion() {
 function prevQuestion() {
   if (index > 0) {
     index--;
+    autoSave();
     render();
   }
 }
 
-/* Save for later */
-function saveForLater() {
-  saved[index] = true;
-  localStorage.setItem("quizSave", JSON.stringify({ answers, saved, index }));
-  renderNav();
+/* Next → Finish */
+function updateNextButton() {
+  const nextBtn = document.querySelector("button[onclick='nextQuestion()']");
+  if (!nextBtn) return;
+
+  nextBtn.textContent =
+    index === quiz.questions.length - 1 ? "Finish" : "Next";
 }
 
-/* Finish */
+/* Finish exam */
 function finishQuiz() {
   let correct = 0;
 
@@ -130,47 +153,12 @@ function finishQuiz() {
 
   const score = Math.round((correct / quiz.questions.length) * 100);
 
+  localStorage.removeItem(quizKey);
+
   document.getElementById("exam").classList.add("hidden");
   document.getElementById("result").classList.remove("hidden");
 
   document.getElementById("score").textContent = score;
   document.getElementById("status").textContent =
     score >= 80 ? "PASSED" : "FAILED";
-}
-
-/* Retake */
-function retakeQuiz() {
-  answers = {};
-  saved = {};
-  index = 0;
-
-  document.getElementById("result").classList.add("hidden");
-  document.getElementById("review").classList.add("hidden");
-  document.getElementById("intro").classList.remove("hidden");
-}
-
-/* Review */
-function reviewQuiz() {
-  const review = document.getElementById("review");
-  review.innerHTML = "<h1>Review</h1>";
-
-  document.getElementById("result").classList.add("hidden");
-  review.classList.remove("hidden");
-
-  quiz.questions.forEach((q, i) => {
-    const div = document.createElement("div");
-    div.innerHTML = `<p><strong>${i + 1}. ${q.question}</strong></p>`;
-
-    q.options.forEach((opt, idx) => {
-      const p = document.createElement("p");
-      p.textContent = opt;
-
-      if (idx === q.answer) p.className = "correct";
-      if (answers[i] === idx && idx !== q.answer) p.className = "wrong";
-
-      div.appendChild(p);
-    });
-
-    review.appendChild(div);
-  });
 }
