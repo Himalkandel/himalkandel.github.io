@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Insurance Learning Portal</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f6f8;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .container {
+      background: white;
+      padding: 40px;
+      width: 360px;
+      border-radius: 10px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+      text-align: center;
+    }
+
+    h1 {
+      margin-bottom: 25px;
+    }
+
+    input {
+      width: 100%;
+      padding: 12px;
+      margin-bottom: 15px;
+      font-size: 16px;
+    }
+
+    button {
+      width: 100%;
+      padding: 12px;
+      margin: 8px 0;
+      font-size: 16px;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      background: #2563eb;
+      color: white;
+    }
+
+    button.secondary {
+      background: #4b5563;
+    }
+
+    button:hover {
+      opacity: 0.9;
+    }
+
+    .hidden {
+      display: none;
+    }
+
+    .error {
+      color: red;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- LOGIN PAGE -->
+  <div class="container" id="loginPage">
+    <h1>Insurance Learning</h1>
+    <input type="password" id="passwordInput" placeholder="Enter Password" />
+    <button onclick="login()">Enter</button>
+    <div class="error" id="loginError"></div>
+  </div>
+
+  <!-- MAIN PAGE -->
+  <div class="container hidden" id="mainPage">
+    <h1>Main Menu</h1>
+    <button onclick="showLearnNotes()">Learn Notes</button>
+    <button onclick="showQuiz()">Quiz</button>
+    <button onclick="showLongExams()">Long Exams</button>
+  </div>
+
+  <!-- LEARN NOTES PAGE -->
+  <div class="container hidden" id="learnNotesPage">
+    <h1>Learn Notes</h1>
+    <button onclick="alert('Code of Conduct notes coming soon')">Code of Conduct</button>
+    <button onclick="alert('SEFs notes coming soon')">All SEFs</button>
+    <button onclick="alert('Risk Management notes coming soon')">Risk Management</button>
+    <button onclick="alert('Industry Knowledge notes coming soon')">Industry Knowledge</button>
+    <button class="secondary" onclick="goBack()">Back</button>
+  </div>
+
+  <!-- QUIZ PAGE -->
+  <div class="container hidden" id="quizPage">
+    <h1>Quizzes</h1>
+    <p>10–14 quizzes will be added here later.</p>
+    <button class="secondary" onclick="goBack()">Back</button>
+  </div>
+
+  <!-- LONG EXAMS PAGE -->
+  <div class="container hidden" id="longExamsPage">
+    <h1>Long Exams</h1>
+    <p>Full practice exams coming soon.</p>
+    <button class="secondary" onclick="goBack()">Back</button>
+  </div>
+
+  <script>
+    const PASSWORD = "Himal10";
+
+    function login() {
+      const input = document.getElementById("passwordInput").value;
+      const error = document.getElementById("loginError");
+
+      if (input === PASSWORD) {
+        document.getElementById("loginPage").classList.add("hidden");
+        document.getElementById("mainPage").classList.remove("hidden");
+      } else {
+        error.textContent = "Incorrect password";
+      }
+    }
+
+    function hideAll() {
+      document.getElementById("mainPage").classList.add("hidden");
+      document.getElementById("learnNotesPage").classList.add("hidden");
+      document.getElementById("quizPage").classList.add("hidden");
+      document.getElementById("longExamsPage").classList.add("hidden");
+    }
+
+    function showLearnNotes() {
+      hideAll();
+      document.getElementById("learnNotesPage").classList.remove("hidden");
+    }
+
+    function showQuiz() {
+      hideAll();
+      document.getElementById("quizPage").classList.remove("hidden");
+    }
+
+    function showLongExams() {
+      hideAll();
+      document.getElementById("longExamsPage").classList.remove("hidden");
+    }
+
+    function goBack() {
+      hideAll();
+      document.getElementById("mainPage").classList.remove("hidden");
+    }
+  </script>
+
+</body>
+</html>
