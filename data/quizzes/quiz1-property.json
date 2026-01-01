@@ -1,0 +1,406 @@
+{
+  "title": "Property Practice Quiz",
+  "passingGrade": 80,
+  "questions": [
+    {
+      "question": "An insured suffers a loss to their property in the amount of $10,000 based on replacement cost of the property. The Insured’s actual value of the property on the date of purchase four years ago was $6,000. Depreciation has been agreed at 25%. Coverage carried under the policy is actual cash value. The principle of indemnity is the basis of any insurance contract and therefore the insurer will:",
+      "options": [
+        "Place the Insured in the same position prior to the loss and pay $6,000",
+        "Place the Insured in the same position prior to the loss and pay $10,000",
+        "Place the Insured in the same position prior to the loss and pay $7,500",
+        "Place the Insured in the same position prior to the loss and pay $5,500"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The conditions of a policy of “fire” insurance stipulate that insurance coverage expires at:",
+      "options": [
+        "12:01 a.m. at the location of the property insured",
+        "12:01 p.m. at the location of the property insured",
+        "12:01 a.m. at the address of the named insured",
+        "12:01 p.m. at the address of the named insured"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Consequential loss is defined as:",
+      "options": [
+        "A loss that affects an insured’s family",
+        "A loss that is an indirect result of an occurrence",
+        "A loss that is a direct result of an occurrence",
+        "A loss that indirectly affects a third party"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In the event of a loss giving rise to a claim under a Habitational Form of Insurance, an insured must submit a proof of loss to the insurer or adjuster:",
+      "options": [
+        "Within 30 days",
+        "Within 60 days",
+        "Immediately",
+        "As soon as practicable"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The unqualified word “insured” in a policy for fire insurance is defined as:",
+      "options": [
+        "The named insured and, if residing in the household, their spouse, relatives of either under the age of 21",
+        "Named insured and, if residing in the household, their relatives and any person under the age of 21 in the care of the insured",
+        "The named insured and, if residing in the household, their spouse, relatives of either and any person under the age of 21 in the care of the insured",
+        "Named insured, their spouse, relatives of either, and any person under the age of 21 in the care of insured"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Standard Homeowner’s Policy contains several sections relating to property. Under section entitled “Building Coverage” which of the following is covered?",
+      "options": [
+        "Outdoor swimming pool",
+        "Attached garage",
+        "Plate glass",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Under a Standard Homeowner’s Policy with a limit under Section A of $100,000. if an insured owns two detached outbuildings worth $1,000 each and both are destroyed as a result of a single accident covered by an insured peril, what amount of coverage would be available to the insured? The policy contains a deductible of $500.",
+      "options": [
+        "$2,000.00",
+        "There is no coverage as Section A only covers the principle building",
+        "$1,000. An extension only covers one outbuilding",
+        "$1,500"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The insured has a Standard Homeowner’s Policy with replacement cost coverage under Section C Personal Belongings. With this type of coverage claims are settled in the following manner:",
+      "options": [
+        "The price paid for the damaged article with no depreciation deducted",
+        "The price of the article today with depreciation for age",
+        "The price of the article today with no depreciation deducted",
+        "The price paid for the article less depreciation"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Statutory Conditions of a fire insurance policy section “Requirements after Loss” states that the Insured must give notice in writing and as soon as practicable file a Proof of Loss with an insurer. After the Proof of loss has been filed with an Insurer, loss is payable within:",
+      "options": [
+        "5 days personally delivered",
+        "45 days",
+        "60 days",
+        "90 days"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "An Insured suffers the loss of a pot roast as a result of a fire which was confined to the oven in the insured’s kitchen. This loss is deemed to be the result of a:",
+      "options": [
+        "Direct fire",
+        "Indirect fire",
+        "Hostile fire",
+        "Friendly fire"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The Homeowner’s Policy contains a Basis of Claim Payment Clause regarding a damaged or destroyed building and detached private structures and personal property and payment of monies. This clause states that the Insurer will pay:",
+      "options": [
+        "The cost of repair or replacement without deduction for depreciation",
+        "The actual cash value of the damaged property on the date of occurrence",
+        "Up to the Insured’s financial interest in the property, but not exceeding applicable limit of insurance",
+        "Their rateable proportion of the loss or damage"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A Standard Homeowner’s wording does NOT contain the following:",
+      "options": [
+        "Exclusions",
+        "Premium to be charged",
+        "Automatic Extensions of Cover",
+        "Type of loss insured"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Homeowner’s Basic Policy provides coverage for the peril of Glass Breakage. Which of the following is true?",
+      "options": [
+        "There is no coverage provided when the dwelling is under construction or vacant",
+        "There is no coverage provided if the owner of the dwelling causes the glass breakage",
+        "Coverage is automatically included in all situations",
+        "There is coverage when the dwelling is vacant under 30 days"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Tenant’s Package Policy is the same as the Homeowner’s Basic Policy except with respect to:",
+      "options": [
+        "Coverage for water damage",
+        "Coverage on the building",
+        "Limits on money, furs, and jewellery",
+        "Coverage for windstorm"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Statutory Condition #11 of the Homeowner’s Policy states that in the event of a disagreement over the amount of a loss, the Insured may:",
+      "options": [
+        "Obtain a valuation from an independent representative of the Insurer",
+        "Obtain a valuation from an independent representative of the Insured",
+        "Obtain a valuation from an independent expert",
+        "Request an appraisal"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "When articles are insured under a personal article floater a “valued” item is one which:",
+      "options": [
+        "In the event of loss settlement is made on the basis of actual cash value subject to depreciation",
+        "In the event of loss the amount of insurance is agreed to be the amount payable",
+        "In the event of cancellation of the policy a pro rata return is always allowed",
+        "In the event of a loss the amount of the policy is reduced by the amount of the loss"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A personal articles floater provides coverage:",
+      "options": [
+        "While located in Canada",
+        "Canada and the Continental United States of America",
+        "Worldwide",
+        "While located in Canada, United States and in Europe"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Statutory Conditions of insurance policies relating to termination allow that the cancellation of a policy by an Insurer, giving notice to an Insured in the following manner:",
+      "options": [
+        "Registered mail, giving ten days notice",
+        "Hand delivered, giving five days’ notice",
+        "Hand delivered, giving one day’s notice",
+        "All of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Under the application of heat exclusion which of the following would be excluded?",
+      "options": [
+        "The house and all of its contents as a result of hot-tarring the roof",
+        "Damage to third party property that ensues due to a fire from hot-tarring the roof",
+        "Damage to city property that ensues due to a fire caused by hot-tarring the roof",
+        "Damage to the actual shingles during the course of hot-tarring the roof"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The onus is on the __________________________ to notify of any material change.",
+      "options": [
+        "Third party",
+        "Insured",
+        "Insurer",
+        "Claimant"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Under the Statutory Condition regarding Termination of a policy, when the Insurer cancels the contract of insurance via registered mail, 15 days commences:",
+      "options": [
+        "The day after the letter has been received at the post office to which is was addressed",
+        "The day the letter is mailed from the head office of the insurance company",
+        "The day after the Insured receives the letter",
+        "The day the insured picks up the letter at the post office"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Under the Statutory Condition regarding Termination of a policy, insurance contracts can be cancelled at any time by the Insured provided such request is received in writing and the loss payee is notified. If this is the case, the Insurer’s obligation is to return unused premium on a ______________ basis:",
+      "options": [
+        "Pro rata",
+        "Short rate",
+        "True unused portion",
+        "Flat rate"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Property of an Insured that has been damaged by an Insured peril may be subject to further damage. Taking precautions to reduce further loss is the responsibility of the Insured as set out in Statutory Condition #9 titled:",
+      "options": [
+        "Entry, control and abandonment",
+        "Appraisal",
+        "When Loss Payable",
+        "Salvage"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Coverage D under a Homeowner’s Comprehensive form is:",
+      "options": [
+        "Personal Liability",
+        "Voluntary Medical Payments",
+        "Additional Living Expenses",
+        "Voluntary Payment for Damage to Property"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Homeowner’s Broad Form differs from the Basic Homeowner’s Policy in that the Additional Living Expense is:",
+      "options": [
+        "10% of Coverage A or $1,500. whichever is the lesser",
+        "20% of Coverage A or $2,500. whichever is the lesser",
+        "20% of Coverage A or $1,500. whichever is the greater",
+        "None of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Coverage C, Personal Property, includes off-premises coverage which is limited to include:",
+      "options": [
+        "North American travel only",
+        "Mexico, the Continental USA, Hawaii and Canada",
+        "Five continents",
+        "None of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The Insurer has learned that they have a client who has committed arson to his own apartment. He is jailed, and his girlfriend bails him out of jail. He has returned to live in the burned up mess at the apartment. The insurer wants to cancel as soon as possible. How will the insurer initiate this cancellation?",
+      "options": [
+        "5 days hand delivery of the cancellation and include any refund cheque",
+        "15 days notice sent by registered mail and include any refund cheque",
+        "call him up and have him come into the office to sign off on the cancellation",
+        "the insurer cannot cancel until renewal"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Actual Cash Value (ACV) is understood as the cost of replacing property, less any depreciation to that property. Most insurers expand their definition to recognize that a fair estimate of depreciation at the time of loss depends on which of the following factors?",
+      "options": [
+        "The property's physical condition",
+        "The property's resale value",
+        "The property's obsolesence",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a “fiduciary”",
+      "options": [
+        "Mortgagee",
+        "Insured",
+        "Insurer",
+        "All of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does the term HABITATIONAL; POLICY refer to?",
+      "options": [
+        "A comprehensive policy offered only by some insurers",
+        "A policy, whether Basic (Standard), Broad or Comprehensive",
+        "A policy, whether Basic (Standard), Broad or Comprehensive that includes both Section I - Property Coverages ABC and D plus Section II, Liability Coverages EFGH",
+        "None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In insurance terms, which of the following is NOT a peril. A peril is the word for a cause of loss.",
+      "options": [
+        "Lightning, fire, wind",
+        "A wood burning stove used for heating",
+        "Windstorm, lightning",
+        "Burglary or theft"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "ACV (Actual Cash Value) is understood as the cost of replacing property, less depreciation to it. Most insurers expand their definition to recognize that a fair estimate of depreciation at the time of loss depends on which of the following factors?",
+      "options": [
+        "The physical condition of the property",
+        "The resale value of the property",
+        "The obsolesence of the property",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Johnny is your client, and his mother lives in his basement and she does in fact pay rent. When the house burns because of a fire, who’s policy(ies) respond to the damages?",
+      "options": [
+        "Johnny's policy would hay damages to his house and his contents, his mother would only be covered if she had a tenants policy",
+        "Johnny's policy pays damage to his house and his contents, plus his mother's contents",
+        "The mothers policy would pay damages to Johnny's house and contents, and her contents as well",
+        "The mother must have a tenants policy and would only be covered if she bought her own tenants policy"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Johnny is your insured. He has a Comprehensive home policy with very expensive numismatic coin collections, bicycles and artwork. Johnny has a small home with very updated and expensive leather and wood furnishings. How do you recommend that Johnny proceeds to properly insure his furnishings and collectibles?",
+      "options": [
+        "All of the furnishings and wood furniture is covered under the home policy. The Broker should offer a Personal Articles and Fine Arts endorsements for the unique items with limits under the policy",
+        "All of the furnishings and wood furniture is covered under the home policy. The Broker should offer a Personal Fine Arts endorsements for artwork only",
+        "All of the furnishings and wood furniture is covered under the home policy but the Broker can always go and inspect to ensure properly covered. If they do, no special limits of insurance apply because the Brokers inspection report will detail the specifics",
+        "No worries, sell a Comprehensive home policy so that the client has no issues of limits under the policy"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following losses would be covered under the freezer food extension of coverage?",
+      "options": [
+        "Food spoils in the refrigerator when the insured's child pulls the power cord out of the electrical outlet and it goes unnoticed for a period of time",
+        "Expenses incurred to store freezer food in a cold storage unit while the freezer is being repaired",
+        "Food spoilage when a circuit breaker trips, disrupting the supply of power to the unit",
+        "Damage to the freezer due to food spoilage up to the full limit of the client's Coverage C"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Your insured had to work at home through COVID-19. To do this, they were assigned a laptop by their office to perform their work at home. How is the laptop best insured when their own home is in a house fire?",
+      "options": [
+        "The laptop is not insured under their home policy as they have no insurable interest",
+        "Best insured under their own home policy, temporarily removed anywhere in the world",
+        "Best insured under their own home policy under specific limits for business owned property",
+        "Only covered if there is no deductible under the Commercial Property policy"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following are not optional for Coverage A of habitational policies?",
+      "options": [
+        "Building fixtures and fittings temporarily removed for storage or repair up to 10% of coverage A",
+        "Debris removal",
+        "Permanently installed outdoor equipment",
+        "Shutters temporarily removed for painting"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following statements is FALSE when discussing tenants insurance",
+      "options": [
+        "The tenants policy insures all contents of the individual even if contents are temporarily stored anywhere else in the world",
+        "Tenants policies are needed by an individual who is provided a dwelling while at work, such as a rig-worker",
+        "The tenants policy owner is responsible for insuring the dwelling and its furnishings",
+        "Tenants policies are needed by people who live in an apartment, basement suite or even renting a room in someone else's house"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is NOT excluded under comprehensive home policy?",
+      "options": [
+        "Damage to wiring when mice eat the wiring harness",
+        "Damage to window glass when a flock of birds fly into the glass while chasing a shiny object",
+        "Damage to insulation and drywall when there are squirrels and rodents living in an insulated attic",
+        "All of the above are excluded"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is TRUE of mobile home package policy?",
+      "options": [
+        "Losses are paid based on replacement cost except windstorm and hail losses",
+        "All furnishings are considered part of the building",
+        "It is identical to homeowners insurance except it covers mobile homes",
+        "Loss or damage that occurs while the building is being moved is not covered, unless it is for Emergency Removal Expense to protect further damage"
+      ],
+      "answer": 3
+    }
+  ]
+}

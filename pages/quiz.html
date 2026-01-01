@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Quizzes</title>
+  <link rel="stylesheet" href="../css/quiz.css">
+</head>
+<body>
+
+<div class="card" id="quizSelect">
+  <h1>Quizzes</h1>
+
+  <button onclick="loadQuiz('quiz1-property.json')">Property Practice Quiz</button>
+  <button onclick="loadQuiz('quiz2-liability.json')">Liability Practice Quiz</button>
+  <button onclick="loadQuiz('quiz3-coinsurance.json')">Coinsurance Quiz</button>
+  <button onclick="loadQuiz('quiz4-advanced-commercial.json')">Advanced Commercial Knowledge Quiz</button>
+  <button onclick="loadQuiz('quiz5-surety.json')">Surety Bonding Quiz</button>
+  <button onclick="loadQuiz('quiz6-commercial.json')">Commercial Insurance Quiz</button>
+
+  <button class="secondary" onclick="history.back()">Back</button>
+</div>
+
+<div class="card hidden" id="intro">
+  <h1 id="title"></h1>
+  <p>Questions: <span id="count"></span></p>
+  <p>Passing Grade: 80%</p>
+  <button onclick="startQuiz()">Start</button>
+</div>
+
+<div class="card hidden" id="exam">
+  <p id="progress"></p>
+  <h2 id="question"></h2>
+  <div id="choices"></div>
+
+  <button onclick="saveForLater()">Save for Later</button>
+  <button onclick="prevQuestion()">Previous</button>
+  <button onclick="nextQuestion()">Next</button>
+
+  <div id="questionNav" class="question-nav"></div>
+</div>
+
+<div class="card hidden" id="result">
+  <h1 id="status"></h1>
+  <p>Score: <span id="score"></span>%</p>
+  <button onclick="reviewQuiz()">Review</button>
+  <button onclick="retakeQuiz()">Retake</button>
+</div>
+
+<div class="card hidden" id="review"></div>
+
+<script src="../js/quiz-engine.js"></script>
+</body>
+</html>

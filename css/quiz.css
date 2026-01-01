@@ -1,0 +1,146 @@
+/* Base */
+body {
+  background: #111;
+  color: #eee;
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+.card {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 40px;
+  background: #1a1a1a;
+  border-radius: 12px;
+}
+
+.hidden {
+  display: none;
+}
+
+h1, h2 {
+  margin-top: 0;
+}
+
+/* Buttons */
+button {
+  padding: 12px;
+  margin: 6px 0;
+  width: 100%;
+  background: #b8860b;
+  color: #000;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button.secondary {
+  background: #444;
+  color: #fff;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+
+/* Options */
+.option {
+  border: 1px solid #444;
+  padding: 14px;
+  margin: 10px 0;
+  cursor: pointer;
+  border-radius: 6px;
+}
+
+.option:hover {
+  background: #222;
+}
+
+.option.selected {
+  background: #333;
+  border-color: #b8860b;
+}
+
+/* Question progress */
+#progress {
+  font-size: 14px;
+  margin-bottom: 10px;
+  opacity: 0.9;
+}
+
+/* Question navigation (SMALL like exam UI) */
+.question-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 20px;
+}
+
+.question-nav button {
+  width: 36px;
+  height: 36px;
+  padding: 0;
+  font-size: 14px;
+  background: transparent;
+  border: 1px solid #555;
+  color: #ddd;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.question-nav button.current {
+  background: #b8860b;
+  color: #000;
+  border-color: #b8860b;
+}
+
+.question-nav button.answered {
+  border-color: #22c55e;
+}
+
+.question-nav button.saved {
+  border-color: #3b82f6;
+}
+
+/* Legend */
+.legend {
+  display: flex;
+  gap: 16px;
+  margin-top: 15px;
+  font-size: 13px;
+}
+
+.legend span {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.legend-box {
+  width: 14px;
+  height: 14px;
+  border-radius: 3px;
+  border: 1px solid #555;
+}
+
+.legend-current {
+  background: #b8860b;
+  border-color: #b8860b;
+}
+
+.legend-answered {
+  border-color: #22c55e;
+}
+
+.legend-saved {
+  border-color: #3b82f6;
+}
+
+/* Review */
+.correct {
+  color: #22c55e;
+}
+
+.wrong {
+  color: #ef4444;
+}
