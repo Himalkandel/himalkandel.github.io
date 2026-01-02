@@ -1,17 +1,73 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Long Exams</title>
-  <link rel="stylesheet" href="../css/style.css">
+  <meta charset="UTF-8" />
+  <title>Insurance Practice Exams</title>
+  <link rel="stylesheet" href="../css/quiz.css" />
 </head>
 <body>
 
-<div class="card">
-  <h1>Long Exams</h1>
-  <p>Coming soon</p>
-  <button class="secondary" onclick="history.back()">Back</button>
-</div>
+  <!-- EXAM SELECTION -->
+  <div class="card" id="quizSelect">
+    <h1>Insurance Practice Exams</h1>
+
+    <button onclick="loadQuiz('../data/exams/exam1.json')">
+      Exam 1 – AIC General Insurance (140 Questions)
+    </button>
+
+    <button onclick="loadQuiz('../data/exams/exam2.json')">
+      Exam 2 – AIC General Insurance
+    </button>
+
+    <button class="secondary" onclick="window.location.href='../main.html'">
+      Back to Main Menu
+    </button>
+  </div>
+
+  <!-- INTRO SCREEN -->
+  <div class="card hidden" id="intro">
+    <h1 id="title"></h1>
+    <p>Total Questions: <strong id="count"></strong></p>
+    <p>Passing Grade: <strong>80%</strong></p>
+
+    <button onclick="startQuiz()">Start Exam</button>
+    <button class="secondary" onclick="window.location.reload()">Cancel</button>
+  </div>
+
+  <!-- EXAM SCREEN -->
+  <div class="card hidden" id="exam">
+    <div id="progress"></div>
+
+    <h2 id="question"></h2>
+
+    <div id="choices"></div>
+
+    <div class="nav-buttons">
+      <button onclick="prevQuestion()">Previous</button>
+      <button onclick="nextQuestion()">Next</button>
+      <button class="secondary" onclick="saveAndExit()">Save for Later</button>
+    </div>
+
+    <div id="questionNav" class="question-nav"></div>
+  </div>
+
+  <!-- RESULT SCREEN -->
+  <div class="card hidden" id="result">
+    <h1 id="status"></h1>
+    <p>Your Score: <strong><span id="score"></span>%</strong></p>
+
+    <button onclick="reviewQuiz()">Review Answers</button>
+    <button onclick="retakeQuiz()">Retake Exam</button>
+    <button class="secondary" onclick="window.location.href='../main.html'">
+      Back to Main Menu
+    </button>
+  </div>
+
+  <!-- REVIEW SCREEN -->
+  <div class="card hidden" id="review"></div>
+
+  <!-- QUIZ ENGINE (same as quizzes) -->
+  <script src="../js/quiz-engine.js"></script>
 
 </body>
 </html>
