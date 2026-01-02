@@ -1,0 +1,86 @@
+{
+  "title": "Risk Management Quiz",
+  "passingGrade": 80,
+  "questions": [
+    {
+      "question": "Jeremy owns a business and you are talking with him about managing risk. What are the two types of risk that businesses face in their day-to-day operations?",
+      "options": [
+        "Transfer and speculative",
+        "Speculative and pure",
+        "Pure and controllable",
+        "Speculative and managed"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "There are ways of managing risk that will reduce the frequency and severity of losses. The chance of loss can be mitigated by implementing safety measures. There is a difference between physical safety measures and administrative measures. Which of the following is an example of a physical measure that can be undertaken?",
+      "options": [
+        "Regular audits of cash and inventory levels",
+        "Removing ice from driveways and walkways in winter to reduce vehicle and pedestrian accidents",
+        "Implementing risk financing strategies such as repairing equipment regularly",
+        "All of the above are administrative; none are physical"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "There are five common methods used to finance retained losses. Which one of these is NOT one of the five methods?",
+      "options": [
+        "Unfunded reserve, funded reserve, borrowing",
+        "Borrowing, funded reserve, captive insurer",
+        "Captive insurer and borrowing only",
+        "Coinsurance, subscription, unfunded reserve"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The risk management plan contains six steps. Identifying exposures is a necessary step. What are some of the tools used to identify exposures?",
+      "options": [
+        "Flowcharts and review of bottlenecks that could occur",
+        "Surveys and checklists to describe loss exposures, financial statement reviews",
+        "Physical inspections to view exposures",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Mary is very nervous and chooses not to drive, never having attempted or passed her driver’s licence test. She never shops on the weekend because she finds stores too busy. She does not buy lottery tickets because she believes it is a waste of money. Mary is described as “risk-averse.” This is an example of:",
+      "options": [
+        "Avoidance of risk",
+        "Controlling her risk",
+        "Managing her risk",
+        "Loss prevention"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the Large Loss Principle?",
+      "options": [
+        "Devastating exposures should be transferred to insurers",
+        "Organizational objectives should follow a process",
+        "Losses should be retained and having a large deductible solves all issues",
+        "Formulating risk management plans is critical"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "You have advised your client who owns a retail outlet to install an automatic sprinkler system. Implementing selected risk management strategies requires both technical and managerial decisions. A technical decision is one that must be done. Which of the following is NOT an example of a technical decision?",
+      "options": [
+        "Who will be responsible for the project",
+        "What kind of sprinkler is ideal",
+        "What building permits are necessary",
+        "What must be done to minimize customer service disruptions"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The sixth step in the risk management process is often forgotten once the plan is implemented. What is the sixth step in the risk management process?",
+      "options": [
+        "Consider options for risk control",
+        "Evaluate ongoing risk",
+        "Implement the plan",
+        "Monitor and modify the plan"
+      ],
+      "answer": 3
+    }
+  ]
+}

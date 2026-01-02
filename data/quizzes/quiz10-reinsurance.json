@@ -1,0 +1,66 @@
+{
+  "title": "Reinsurance Quiz",
+  "passingGrade": 80,
+  "questions": [
+    {
+      "question": "Reinsurance is a contract between insurance and reinsurance companies to cover excess liability exposures. The contract is called:",
+      "options": [
+        "Catastrophe Insurance",
+        "Facultative Reinsurance",
+        "A treaty",
+        "A policy"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "An insurer determines there is a maximum amount it wishes to pay on one loss and reinsures any amount that exceeds this maximum. The reinsurer pays losses above that amount. This type of reinsurance is called:",
+      "options": [
+        "Surplus",
+        "Quota Share",
+        "Excess of Loss",
+        "Catastrophe Insurance"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "When a reinsurer cedes part of its loss to another reinsurer, this is called:",
+      "options": [
+        "Cession",
+        "Retrocession",
+        "Recession",
+        "Recuperation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Reinsurance is insurance for insurance companies and is a method of spreading risk. Which of the following is NOT a reason for reinsuring?",
+      "options": [
+        "To reduce the effects of a catastrophic loss",
+        "To increase an insurer’s capacity to write business",
+        "To promote the collection and pooling of loss information",
+        "To provide stability in a fluctuating marketplace"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Reinsurance is an agreement between insurers and reinsurance companies. Which of the following statements is true of reinsurance?",
+      "options": [
+        "It directly affects the consumer",
+        "It is insurance for insurance companies",
+        "It is the primary link in the risk-spreading chain",
+        "It cannot consist of more than one layer"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "You are explaining proportional reinsurance to a very analytical client. Which statement best describes proportional reinsurance?",
+      "options": [
+        "Proportional reinsurance is the same as treaty reinsurance",
+        "The percentage of risk ceded is the same percentage of premium paid to the reinsurer",
+        "There is no relationship between the proportions of risk assumed",
+        "None of the above statements relate to reinsurance"
+      ],
+      "answer": 1
+    }
+  ]
+}

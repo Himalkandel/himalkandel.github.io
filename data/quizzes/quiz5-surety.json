@@ -1,0 +1,36 @@
+{
+  "title": "Surety Bonding Quiz",
+  "passingGrade": 80,
+  "questions": [
+    {
+      "question": "Which of the following is true with regard to termination of surety contracts?",
+      "options": [
+        "They can be cancelled if the job is completed early",
+        "The bond normally stays in force for the completion of the job. There is no provision or refund for cancelling early",
+        "Bonds are always on year terms but projects often take longer than just one year",
+        "None of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Although Bonding are three-party contracts, which two parties to the bond are required to sign the bond under sealed contracts?",
+      "options": [
+        "Obligee and Principal",
+        "Obligee and project owner",
+        "Principal and Surety",
+        "Surety only"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A surety bond:",
+      "options": [
+        "Is a two-party contract",
+        "Is designed to protect the surety company",
+        "Provides security to a party entering a contract",
+        "Protects the insurer of contractor error"
+      ],
+      "answer": 2
+    }
+  ]
+}

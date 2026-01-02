@@ -1,0 +1,68 @@
+{
+  "title": "Liability Practice Quiz",
+  "passingGrade": 80,
+  "questions": [
+    {
+      "question": "An accident, including continuous or repeated exposure to substantially the same general harmful conditions, describes:",
+      "options": [
+        "An occurrence",
+        "An accident",
+        "Use and operation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Under the Liability Section of a Habitational Form, for coverage to be provided for bodily injury or property damage it must be:",
+      "options": [
+        "Sudden and unexpected",
+        "Occur over long periods of time",
+        "Continuous or repeated exposure",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Exclusions under Coverage E, Liability insurance for Habitational Forms do NOT include:",
+      "options": [
+        "Liability assumed under contract",
+        "Damage to property owned by Insured",
+        "Vacant land owned by the Insured in Canada",
+        "Damage to property used, rented, or in the care, custody, or control of the insured"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Under Coverage H of a Property Policy, Voluntary Compensation for Residence Employees, there is no coverage for:",
+      "options": [
+        "Loss of life, including funeral benefits",
+        "Weekly indemnity",
+        "Medical expenses",
+        "Loss of wages of employee because they cannot work"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Liability for non-owned watercraft and motorized equipment is covered under a Homeowner’s Package policy. Which of the following is covered?",
+      "options": [
+        "Watercraft used for carrying passengers for compensation",
+        "Use and operation of any type of watercraft subject to exclusions",
+        "Any self-propelled land vehicle provided vehicle is not subject to motor vehicle registration and is designated for use off public roads",
+        "While used in a race or speed test",
+        "A, B, and C",
+        "B and C",
+        "All of the above"
+      ],
+      "answer": 5
+    },
+    {
+      "question": "Your insured owns a cute and well-trained dog, but a neighbour continuously allows her dog to walk off-leash in your client’s cul-de-sac. How should your client manage their risk of being sued?",
+      "options": [
+        "Install a fence with small enough gaps to keep their own dog from escaping and causing third-party damages",
+        "Sell your client a hobby-farm policy",
+        "Third-party liability does not cover damages caused by your insured animal, so no need to advise your client of any risk management technique",
+        "Install a fence with small enough gaps to keep the neighbour's dog from entering your insured's backyard"
+      ],
+      "answer": 0
+    }
+  ]
+}

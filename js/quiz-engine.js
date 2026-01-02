@@ -2,9 +2,10 @@ let quiz = null;
 let index = 0;
 let answers = {};
 let quizKey = "";
-let resumeSession = false;
 
-/* Load quiz */
+/* =========================
+   LOAD QUIZ
+========================= */
 function loadQuiz(file) {
   quizKey = `examSession_${file}`;
 
@@ -26,27 +27,27 @@ function loadQuiz(file) {
           const parsed = JSON.parse(session);
           answers = parsed.answers || {};
           index = parsed.index ?? 0;
-          resumeSession = true;
         } else {
           localStorage.removeItem(quizKey);
           answers = {};
           index = 0;
-          resumeSession = false;
         }
       }
     });
 }
 
-/* Start exam */
+/* =========================
+   START EXAM
+========================= */
 function startQuiz() {
   document.getElementById("intro").classList.add("hidden");
   document.getElementById("exam").classList.remove("hidden");
-
-  // IMPORTANT: do not reset index/answers here
   render();
 }
 
-/* Render question */
+/* =========================
+   RENDER QUESTION
+========================= */
 function render() {
   const q = quiz.questions[index];
 
@@ -63,11 +64,13 @@ function render() {
     div.className = "option";
     if (answers[index] === i) div.classList.add("selected");
     div.textContent = opt;
+
     div.onclick = () => {
       answers[index] = i;
       autoSave();
       render();
     };
+
     choices.appendChild(div);
   });
 
@@ -75,7 +78,9 @@ function render() {
   renderNav();
 }
 
-/* Navigation grid */
+/* =========================
+   QUESTION NAVIGATION
+========================= */
 function renderNav() {
   const nav = document.getElementById("questionNav");
   nav.innerHTML = "";
@@ -97,25 +102,31 @@ function renderNav() {
   });
 }
 
-/* Auto-save ENTIRE exam */
+/* =========================
+   AUTO SAVE SESSION
+========================= */
 function autoSave() {
   localStorage.setItem(
     quizKey,
     JSON.stringify({
       answers,
       index,
-      updatedAt: Date.now()
+      savedAt: Date.now()
     })
   );
 }
 
-/* SAVE & EXIT */
+/* =========================
+   SAVE & EXIT
+========================= */
 function saveAndExit() {
   autoSave();
   window.location.href = "../main.html";
 }
 
-/* Navigation */
+/* =========================
+   NAVIGATION
+========================= */
 function nextQuestion() {
   if (index < quiz.questions.length - 1) {
     index++;
@@ -134,7 +145,9 @@ function prevQuestion() {
   }
 }
 
-/* Next → Finish */
+/* =========================
+   NEXT → FINISH
+========================= */
 function updateNextButton() {
   const nextBtn = document.querySelector("button[onclick='nextQuestion()']");
   if (!nextBtn) return;
@@ -143,7 +156,9 @@ function updateNextButton() {
     index === quiz.questions.length - 1 ? "Finish" : "Next";
 }
 
-/* Finish exam */
+/* =========================
+   FINISH EXAM
+========================= */
 function finishQuiz() {
   let correct = 0;
 
@@ -161,4 +176,52 @@ function finishQuiz() {
   document.getElementById("score").textContent = score;
   document.getElementById("status").textContent =
     score >= 80 ? "PASSED" : "FAILED";
+}
+
+/* =========================
+   RETAKE QUIZ
+========================= */
+function retakeQuiz() {
+  localStorage.removeItem(quizKey);
+  answers = {};
+  index = 0;
+
+  document.getElementById("result").classList.add("hidden");
+  document.getElementById("review").classList.add("hidden");
+  document.getElementById("intro").classList.remove("hidden");
+}
+
+/* =========================
+   REVIEW ANSWERS
+========================= */
+function reviewQuiz() {
+  const review = document.getElementById("review");
+
+  review.innerHTML = "<h1>Review Answers</h1>";
+
+  document.getElementById("result").classList.add("hidden");
+  review.classList.remove("hidden");
+
+  quiz.questions.forEach((q, i) => {
+    const block = document.createElement("div");
+    block.style.marginBottom = "20px";
+
+    const question = document.createElement("p");
+    question.innerHTML = `<strong>${i + 1}. ${q.question}</strong>`;
+    block.appendChild(question);
+
+    q.options.forEach((opt, idx) => {
+      const p = document.createElement("p");
+      p.textContent = opt;
+
+      if (idx === q.answer) p.classList.add("correct");
+      if (answers[i] === idx && idx !== q.answer) p.classList.add("wrong");
+
+      block.appendChild(p);
+    });
+
+    review.appendChild(block);
+  });
+
+  window.scrollTo(0, 0);
 }

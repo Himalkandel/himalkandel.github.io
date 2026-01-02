@@ -1,0 +1,56 @@
+{
+  "title": "Industry Organizations & Professional Education Quiz",
+  "passingGrade": 80,
+  "questions": [
+    {
+      "question": "Which of the following advocates on behalf of insurance brokers and consumers, supports and elevates the broker profession, and promotes a vibrant and sustainable broker distribution channel, having 11 members in their association?",
+      "options": [
+        "Insurance Brokers Association of Canada (IBAC)",
+        "Insurance Institute of Canada (IIC)",
+        "Chartered Insurance Professional (CIP)",
+        "Property and Casualty Insurance Compensation Corporation (PACICC)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following organizations is the national voice of over 38,000 Property and Casualty insurance brokers, representing and advocating for the best interests of insurance brokers and consumers in Canada?",
+      "options": [
+        "Insurance Industry Leaders Association (IILD)",
+        "Insurance Brokers Association of Canada (IBAC)",
+        "Insurance Institute of Canada (IIC)",
+        "Insurance Bureau of Canada (IBC)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which educational designation is the highest level of education one can achieve in the Canadian Property and Casualty insurance industry?",
+      "options": [
+        "FCIP",
+        "Advanced CIP",
+        "CAIB",
+        "CMGA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "If a Managing General Agent completes more Continuing Education (CE) credits in one year, how many can they carry forward to the following licensing annum?",
+      "options": [
+        "15 hours is the maximum carry-forward and the term in Alberta is July 1 – July 1",
+        "7.5 hours is the maximum carry-forward and the term in Alberta is July 1 – July 1",
+        "7.5 hours is the maximum carry-forward and the term in Alberta is July 1 – June 30",
+        "15 hours is the maximum carry-forward and the term commences the date you originally passed the AIC examination"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "When a client makes a claim that is not covered, whose responsibility is it to tell them that it is not covered?",
+      "options": [
+        "Underwriter",
+        "Broker",
+        "Adjuster",
+        "All of the above"
+      ],
+      "answer": 2
+    }
+  ]
+}

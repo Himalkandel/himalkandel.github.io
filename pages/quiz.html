@@ -1,111 +1,119 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Quizzes</title>
-  <link rel="stylesheet" href="../css/quiz.css">
+  <meta charset="UTF-8" />
+  <title>Insurance Quizzes</title>
+  <link rel="stylesheet" href="../css/quiz.css" />
 </head>
 <body>
 
-<!-- QUIZ SELECTION -->
-<div class="card" id="quizSelect">
-  <h1>Quizzes</h1>
+  <!-- QUIZ SELECTION -->
+  <div class="card" id="quizSelect">
+    <h1>Insurance Quizzes</h1>
 
-  <button onclick="loadQuiz('quiz1-property.json')">
-    Property Practice Quiz
-  </button>
+    <button onclick="loadQuiz('quiz1-property.json')">
+      Quiz 1 – Property Practice
+    </button>
 
-  <button onclick="loadQuiz('quiz2-liability.json')">
-    Liability Practice Quiz
-  </button>
+    <button onclick="loadQuiz('quiz2-liability.json')">
+      Quiz 2 – Liability Practice
+    </button>
 
-  <button onclick="loadQuiz('quiz3-coinsurance.json')">
-    Coinsurance Quiz
-  </button>
+    <button onclick="loadQuiz('quiz3-coinsurance.json')">
+      Quiz 3 – Coinsurance
+    </button>
 
-  <button onclick="loadQuiz('quiz4-advanced-commercial.json')">
-    Advanced Commercial Knowledge Quiz
-  </button>
+    <button onclick="loadQuiz('quiz4-advanced-commercial.json')">
+      Quiz 4 – Advanced Commercial Knowledge
+    </button>
 
-  <button onclick="loadQuiz('quiz5-surety.json')">
-    Surety Bonding Quiz
-  </button>
+    <button onclick="loadQuiz('quiz5-surety.json')">
+      Quiz 5 – Surety Bonding
+    </button>
 
-  <button onclick="loadQuiz('quiz6-commercial.json')">
-    Commercial Insurance Quiz
-  </button>
+    <button onclick="loadQuiz('quiz6-commercial.json')">
+      Quiz 6 – Commercial Insurance
+    </button>
 
-  <button class="secondary" onclick="window.location.href='../main.html'">
-    Back to Main Menu
-  </button>
-</div>
+    <button onclick="loadQuiz('quiz7-automobile-law.json')">
+      Quiz 7 – Automobile Law & SPF No. 1
+    </button>
 
-<!-- EXAM INTRO -->
-<div class="card hidden" id="intro">
-  <h1 id="title"></h1>
+    <button onclick="loadQuiz('quiz8-auto-practice-exam-2.json')">
+      Quiz 8 – Auto Practice Exam 2
+    </button>
 
-  <p>
-    <strong>Total Questions:</strong>
-    <span id="count"></span>
-  </p>
+    <button onclick="loadQuiz('quiz9-code-of-conduct.json')">
+      Quiz 9 – Code of Conduct
+    </button>
 
-  <p>
-    <strong>Passing Grade:</strong> 80%
-  </p>
+    <button onclick="loadQuiz('quiz10-reinsurance.json')">
+      Quiz 10 – Reinsurance
+    </button>
 
-  <button onclick="startQuiz()">Start Exam</button>
+    <button onclick="loadQuiz('quiz11-industry-organizations.json')">
+      Quiz 11 – Industry Organizations & Education
+    </button>
 
-  <button class="secondary" onclick="window.location.href='../main.html'">
-    Back to Main Menu
-  </button>
-</div>
+    <button onclick="loadQuiz('quiz12-industry-knowledge.json')">
+      Quiz 12 – Industry Knowledge & Regulation
+    </button>
 
-<!-- EXAM SCREEN -->
-<div class="card hidden" id="exam">
+    <button onclick="loadQuiz('quiz13-risk-management.json')">
+      Quiz 13 – Risk Management
+    </button>
 
-  <div id="progress"></div>
+    <button onclick="loadQuiz('quiz14-property-commercial-broker-conduct.json')">
+      Quiz 14 – Property, Commercial & Broker Conduct
+    </button>
 
-  <h2 id="question"></h2>
-
-  <div id="choices"></div>
-
-  <div class="exam-actions">
-    <button onclick="saveAndExit()">Save for Later</button>
+    <button class="secondary" onclick="window.location.href='../main.html'">
+      Back to Main Menu
+    </button>
   </div>
 
-  <div class="exam-nav">
-    <button onclick="prevQuestion()">Previous</button>
-    <button onclick="nextQuestion()">Next</button>
+  <!-- INTRO SCREEN -->
+  <div class="card hidden" id="intro">
+    <h1 id="title"></h1>
+    <p>Total Questions: <strong id="count"></strong></p>
+    <p>Passing Grade: <strong>80%</strong></p>
+
+    <button onclick="startQuiz()">Start Quiz</button>
+    <button class="secondary" onclick="window.location.reload()">Cancel</button>
   </div>
 
-  <!-- SMALL QUESTION NAV -->
-  <div id="questionNav" class="question-nav"></div>
+  <!-- EXAM SCREEN -->
+  <div class="card hidden" id="exam">
+    <div id="progress"></div>
 
-</div>
+    <h2 id="question"></h2>
 
-<!-- RESULT SCREEN -->
-<div class="card hidden" id="result">
-  <h1 id="status"></h1>
+    <div id="choices"></div>
 
-  <p>
-    <strong>Score:</strong>
-    <span id="score"></span>%
-  </p>
+    <div class="nav-buttons">
+      <button onclick="prevQuestion()">Previous</button>
+      <button onclick="nextQuestion()">Next</button>
+      <button class="secondary" onclick="saveAndExit()">Save for Later</button>
+    </div>
 
-  <button onclick="reviewQuiz()">Review Answers</button>
+    <div id="questionNav" class="question-nav"></div>
+  </div>
 
-  <button onclick="retakeQuiz()">Retake Quiz</button>
+  <!-- RESULT SCREEN -->
+  <div class="card hidden" id="result">
+    <h1 id="status"></h1>
+    <p>Your Score: <strong><span id="score"></span>%</strong></p>
 
-  <button class="secondary" onclick="window.location.href='../main.html'">
-    Back to Main Menu
-  </button>
-</div>
+    <button onclick="reviewQuiz()">Review Answers</button>
+    <button onclick="retakeQuiz()">Retake Quiz</button>
+    <button class="secondary" onclick="window.location.href='../main.html'">
+      Back to Main Menu
+    </button>
+  </div>
 
-<!-- REVIEW SCREEN -->
-<div class="card hidden" id="review">
-  <!-- populated dynamically -->
-</div>
+  <!-- REVIEW SCREEN -->
+  <div class="card hidden" id="review"></div>
 
-<script src="../js/quiz-engine.js"></script>
+  <script src="../js/quiz-engine.js"></script>
 </body>
 </html>

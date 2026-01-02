@@ -1,0 +1,185 @@
+{
+  "title": "Extras: Revisiting Property, Commercial & Broker Conduct Quiz",
+  "passingGrade": 80,
+  "questions": [
+    {
+      "question": "Under Statutory Condition Misrepresentation, which of the following is NOT considered to be sufficient to VOID the policy? Hint",
+      "options": [
+        "The property to be insured is described as brick construction but upon inspection it is brick veneer",
+        "In the investigation of a loss caused by faulty wiring, it is discovered that the insured had stated on the application form that the building was 60 amp wiring, while really it is only 100 amp wiring",
+        "The insured has stated in the application that the property is protected by an approved sprinkler system, but there is no sprinkler system protecting this property",
+        "The insured had not disclosed previous claims and in fact had omitted to inform of any losses, but there was one previous loss which would have affected the decision to write this risk"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Included within the definition of domestic water container would be: Hint",
+      "options": [
+        "Hot tub, sink",
+        "Hot tub, bathtub",
+        "Fridge",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "As an insurance broker you must communicate all factual statements about a risk to an underwriter so that the risk can be properly assessed. This duty of disclosure:",
+      "options": [
+        "Is fundamental to the principle of utmost good faith that underlies all insurance transactions",
+        "Does not impact the insurer",
+        "Falls solely on the shoulders of the applicant and broker",
+        "Requires accurate transmission of the risk particulars to the insured"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A material fact is one which the insured must disclose relevant information to the Broker acting as an intermediary to the Insurer. Material facts:",
+      "options": [
+        "Contributes to the description of the risk",
+        "Could influence the acceptance of the risk",
+        "Must be disclosed by law",
+        "Refers to all key information"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Under Coverage D – Additional Living Expenses of a homeowners package policy, coverage for mass evacuation is applicable if:",
+      "options": [
+        "The evacuation is ordered by someone who is responsible",
+        "The evacuation is as a result of sudden and accidental event and insured peril under the policy",
+        "The perils which causes the evacuation must be an insured peril under the policy",
+        "The insured cannot safely return to their home"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A tenants package policy is issued to an insured who:",
+      "options": [
+        "Owns his or her own home which is occupied by tenants",
+        "Owns his or her own home and wants insurance on the building only",
+        "Rents accomodation from others and wants contents and liability coverage",
+        "Wishes to insure his or her household goods which are temporarily in storage in a warehouse"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is an underwriting concern with respect to rented dwellings?",
+      "options": [
+        "The owner and renter may not be forthcoming about their financial status",
+        "The owner maintains and reports the condition of the premises to the insurer",
+        "When short-term occupancies are normally held in the unit",
+        "All of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "We are quoting to insure a warehouse. Which of the following is NOT an example of real property, also called fixed property?",
+      "options": [
+        "A commercial warehouse",
+        "The parking lot",
+        "Equipment for use within the warehouse",
+        "A storage shed for off-season goods"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A loss payee is someone other than the named insured who will receive proceeds after a claim under an insurance policy. Which statement is TRUE respecting the mortgagee / loss payee?",
+      "options": [
+        "If the policy is cancelled mid-term, the insurer will provide a notice of cancellation to the loss payee",
+        "If there is a transfer of interest, the loss payee must notify the insurer",
+        "Additional premium will be required if there is an increase in hazard and the insured refuses to pay the additional premium",
+        "All of the above are true"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is true with regard to mobile home package policies?",
+      "options": [
+        "Losses are settled on replacement cost basis with the exception of windstorm and hail losses",
+        "All furnishings are considered to be part of the building",
+        "It is identical to the basic homeowners policies except it covers mobile homes",
+        "Loss or damage that occurs while the building is being moved is not covered"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "On a farm insurance policy, if an outbuilding is damaged to more than two-thirds of its value, an initial payment of up to 50% will be made. The remaining balance is payable if:",
+      "options": [
+        "It is repaired or replaced withing three months of the date of loss",
+        "It is replaced with a building designed for the same purpose",
+        "It is replaced on the exact location where the damaged building was situated",
+        "All of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following exclusions apply to Commercial Building, Equipment and Stock form:",
+      "options": [
+        "Nuclear incident or radioactive contamination",
+        "Act of foreign enemy",
+        "Loss or damage as a result of temperature changes, dampness or dryness of the atmosphere",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following statements is true? A loss ratio is:",
+      "options": [
+        "The relationship expressed as a percentage between incurred losses and earned premium for a specified period",
+        "A comparison between the subject of insurance and the object of insurance",
+        "Not a factor when considering risk insurability"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which statement is true regarding broker binding authority?",
+      "options": [
+        "Binding authority is outlined in agency agreements",
+        "This may be authorized by some but not all insurers and differs between insurance companies",
+        "Authorizes an agent or broker to confirm coverage without first submitting the application to the insurance company underwriter",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A broker has a fiduciary responsibility when handling insurance premiums. Even when there is no explicit requirement to keep funds separate, the broker should:",
+      "options": [
+        "Hold premiums in a trust account separate from the general or operating bank account",
+        "Keep a good record of all premiums owed to the insurer and submit collected premiums promptly",
+        "Not earn interest on collected premiums",
+        "Aggressively invest collected premiums to maximize return on investment"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Your client, Groot Contracting Inc calls early on a Monday morning to report a loss that occurred over the weekend. One of their cranes fell at a project site. What is your immediate role as a Broker?",
+      "options": [
+        "Report the loss to the insurer",
+        "Provide your client a proof of loss form",
+        "Assign an independent adjuster",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Salvage is the portion of any property remaining after a loss which has some value or usefulness. An adjuster may allow the insured to keep salvage but the claims cost would be reduced ty the salvage value. A reasonable price would be charged. This is preferable to selling the items at an auction or private sale. Adjusters must be careful to record all details. Salvage:",
+      "options": [
+        "Is the portion of any property remaining after a loss that has value",
+        "Belongs to the insured once the clam is settled",
+        "Increases cost of a claim",
+        "May be purchased by the insurer for reasonable cost"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following are considered Provincially regulated?",
+      "options": [
+        "SPF4",
+        "SPF1",
+        "SPF6",
+        "All of the above"
+      ],
+      "answer": 3
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "title": "Automobile Law & SPF No. 1 Quiz",
+  "passingGrade": 80,
+  "questions": [
+    {
+      "question": "The Province of Alberta has a law that is known as the Absolute Liability Law. In an automobile accident, the third party suffers injuries. The insured has made a material change in the operation of the vehicle. One of the following statements is true:",
+      "options": [
+        "An insurer must pay a minimum of $200,000 to an injured third party regardless of statutory faults, negligence, or breaches on the part of the insured",
+        "An insurer must pay a minimum of $300,000 to an injured third party regardless of statutory faults, negligence, or breaches on the part of the insured",
+        "An insurer must pay a minimum of $100,000 to an injured third party regardless of statutory faults, negligence, or breaches on the part of the insured",
+        "An insurer must pay a minimum of $500,000 to all injured parties"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "An Owner’s Standard SPF No. 1 has been issued with a limit of $200,000 under Section A. Three persons in a third-party automobile are injured. Damage to the third-party vehicle amounts to $15,000. What limit applies to liability for injuries?",
+      "options": [
+        "$200,000",
+        "$185,000",
+        "$190,000",
+        "$215,000"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "If the head of household and spouse are killed, benefits payable under Section B – Subsection 2 – Part 1 will be:",
+      "options": [
+        "Paid to the oldest surviving dependent relative",
+        "Paid to the oldest surviving dependent relative to divide as they wish",
+        "Divided equally among all surviving dependent relatives",
+        "Paid to the executor and divided according to the parents’ wills"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Under Section B – Subsection 3 – Uninsured Motorist Coverage, an accident with an unidentified vehicle must be reported to police:",
+      "options": [
+        "Promptly",
+        "Within 12 hours",
+        "Within 24 hours",
+        "Within 48 hours"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Section C deductibles are waived for which perils?",
+      "options": [
+        "Lightning, explosion, theft",
+        "Windstorm, certain types of explosion, fire",
+        "Fire, lightning, theft",
+        "Theft of entire automobile, fire, lightning"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The insured reports that while fishing on Pigeon Lake, his car went through the ice. What coverage applies if Section C is carried?",
+      "options": [
+        "No coverage exists for water damage",
+        "Entire loss less deductible under All Perils or Comprehensive",
+        "Damage covered but insured pays for vehicle recovery",
+        "Covered under stranding and sinking provision under Subsection 4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Under Section B of SPF No. 1, all limits apply except:",
+      "options": [
+        "Medical expenses up to $50,000 per insured person requiring two doctors’ opinions",
+        "Funeral expenses up to $6,150 per insured person",
+        "Medical expenses incurred within two years of the accident",
+        "Chiropractic services up to $1,000 regardless of number of persons"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Under Section B Subsection 2 of SPF No. 1, the head of household is:",
+      "options": [
+        "The person earning the highest salary at the time of the accident",
+        "The oldest person in the household",
+        "The oldest male member of the household",
+        "The person earning the largest income in the year preceding the accident"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Section C of SPF No. 1 does not insure damage occurring in:",
+      "options": [
+        "Canada",
+        "Continental United States",
+        "Mexico",
+        "Alaska"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Highway Traffic Act requires the owner of an automobile to carry:",
+      "options": [
+        "Section A – Third Party Liability",
+        "Section A and Section B only",
+        "Section B and Section C – All Perils",
+        "Section A, Section B, and SEF 44"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Motor Vehicle Administration Act mandates a minimum liability limit in Alberta of:",
+      "options": [
+        "$200,000",
+        "$100,000",
+        "$250,000",
+        "$210,000"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "With minimum limits of $200,000 under Section A, what amount has priority for property damage?",
+      "options": [
+        "$5,000",
+        "$7,500",
+        "$10,000",
+        "$100,000"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Under SPF No. 1 – Section A, the insured agrees to:",
+      "options": [
+        "Admit liability when at fault",
+        "Appoint an adjuster paid by the insurer",
+        "Appoint the insurer as their irrevocable attorney",
+        "Retain legal counsel for the insurer"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "An automobile application must disclose convictions from the last:",
+      "options": [
+        "3 years",
+        "5 years",
+        "6 years",
+        "10 years"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A temporary Motor Vehicle Liability Card may be issued for:",
+      "options": [
+        "15 days",
+        "21 days",
+        "30 days",
+        "One year or six months"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Under the Highway Traffic Act, Section 180(1), when a pedestrian is struck:",
+      "options": [
+        "Pedestrian is deemed at fault if not at a crosswalk",
+        "Driver is deemed at fault",
+        "Pedestrian must prove they were not at fault",
+        "Driver must prove they were not at fault"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which misstatements could invalidate a claim?",
+      "options": [
+        "Incorrect driving history",
+        "Non-disclosure of additional drivers",
+        "Non-disclosure of licence suspension",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "An insured under SPF No. 1 – Section A is:",
+      "options": [
+        "The named insured and any driver",
+        "The named insured and any occupant",
+        "The named insured and family drivers only",
+        "The named insured and any person driving with consent"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Government insurance plans operate in:",
+      "options": [
+        "Ontario, New Brunswick, Nova Scotia, Manitoba",
+        "Manitoba, Saskatchewan, British Columbia, Ontario",
+        "Manitoba, Saskatchewan, British Columbia",
+        "Nunavut, Manitoba, Ontario, Nova Scotia"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which claim would be paid under Comprehensive (Section C, Subsection 3)?",
+      "options": [
+        "Bear damages vehicle interior",
+        "Brick falls on parked vehicle",
+        "Vandals scratch window",
+        "All of the above",
+        "None of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Commute use includes:",
+      "options": [
+        "Driving to school or work",
+        "Driving to public transit",
+        "Car pooling or ride share",
+        "Retired person taking grandchildren to school",
+        "All of the above",
+        "A, B, and C",
+        "A and B"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "If an insured drives into their own house, Section A would pay for:",
+      "options": [
+        "House damage subject to deductible",
+        "House damage without deductible",
+        "Vehicle damage subject to deductible",
+        "Neither damage"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Third party liability provides coverage for:",
+      "options": [
+        "Injuries to occupants of other vehicles",
+        "Injuries to pedestrians",
+        "Third-party property damage",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "SPF No. 1 Accident Benefits do not cover:",
+      "options": [
+        "Income loss when insured is at fault",
+        "Medical or funeral expenses of insured persons",
+        "Death benefit to beneficiary of third-party passenger",
+        "Medical costs of injured pedestrians"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Under Alberta priority rules, allocation is:",
+      "options": [
+        "$190,000 / $10,000",
+        "$190,000 / $25,000",
+        "$150,000 / $25,000",
+        "$150,000 / $10,000"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A newly acquired vehicle is covered automatically if:",
+      "options": [
+        "It is a private passenger vehicle",
+        "It is the same make and model",
+        "It replaces a vehicle already insured",
+        "It replaces a described vehicle or all vehicles are insured"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Section A covers liability resulting in:",
+      "options": [
+        "Bodily injury or death only",
+        "Property damage only",
+        "Bodily injury, death, or property damage",
+        "Compensatory or punitive damages"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Under Section A, the insurer indemnifies the insured and:",
+      "options": [
+        "Anyone operating the vehicle",
+        "Anyone operating any part thereof",
+        "Injured pedestrians",
+        "All of the above",
+        "A and B",
+        "A and C"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A deductible applies under Section C to:",
+      "options": [
+        "Theft of entire vehicle",
+        "Lightning",
+        "Explosion",
+        "All of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Section C Subsection 3 covers:",
+      "options": [
+        "Losses other than collision or upset",
+        "Collision",
+        "Windstorm, hail, fire, lightning, theft only",
+        "All perils"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Under Section C – Additional Agreements, which is not covered?",
+      "options": [
+        "Loss of use by theft",
+        "General Average",
+        "Fire department charges",
+        "Contents of trailers or rugs or robes"
+      ],
+      "answer": 3
+    }
+  ]
+}

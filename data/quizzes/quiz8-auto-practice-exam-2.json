@@ -1,0 +1,227 @@
+{
+  "title": "Auto Practice Exam 2",
+  "passingGrade": 80,
+  "questions": [
+    {
+      "question": "The Facility Association is:",
+      "options": [
+        "An industry plan designed to guarantee availability of insurance for all automobile owners that cannot obtain coverage in the open market",
+        "An industry plan designed to guarantee availability of automobile insurance for all personal risks but never offers coverage for commercial automobile risks",
+        "An auto plan run by the Government",
+        "An automobile insurance plan run by the Brokers Association of Canada"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Automobile Insurance policy under Section C – Loss or Damage to Insured Automobile provides coverage for a temporary substitute automobile. Which statement most closely defines a temporary substitute automobile?",
+      "options": [
+        "An automobile not owned by the Insured or other household residents, temporarily driven",
+        "An automobile owned by the Insured, driven occasionally",
+        "An automobile not owned by the Insured, but owned by his dependent son",
+        "An automobile owned by the Insured, only driven when damaged vehicle is being repaired"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Statutory Condition 4 “Requirements Where Loss or Damage to the Automobile” in the S.P.F. No. 1 states that the Insured is required to do the following after an accident:",
+      "options": [
+        "Have the damage to the automobile appraised and repaired within 30 days",
+        "Protect the vehicle from further loss or damage at the insured’s expense",
+        "Protect the vehicle from further loss or damage at the insurer’s expense",
+        "Turn the salvage over to the insurer before the loss has been settled"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Under the S.P.F. No. 1 – Section C – Additional Agreements of Insurer, the insurer agrees to waive subrogation against every person who, with the Insured’s consent, has care, custody or control of the automobile except:",
+      "options": [
+        "Without restriction",
+        "Except for someone who sells or repairs cars",
+        "A person who is a member of the insured’s family residing in the same household",
+        "A person who is a friend of a family member"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The S.P.F. No. 6 Non-Owned Policy is intended to provide coverage to:",
+      "options": [
+        "A business whose owned cars are provided to and driven by their salesmen",
+        "A business that does not own any vehicles but pays employees mileage when driving their own vehicles for business",
+        "A business whose owned vehicles are driven by any of their employees",
+        "A business whose owned vehicles are driven by officers, directors, and shareholders"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The S.P.F. No. 2 Driver’s Policy is specifically designed for:",
+      "options": [
+        "The owner of a business who provides vehicles for the use of their salespeople",
+        "The passenger in a vehicle driven by another person",
+        "The pedestrian who is hit and injured by a driver who does not own the vehicle",
+        "A person who drives vehicles owned and licensed by others"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The S.P.F. No. 4 is specifically tailored to meet the needs of:",
+      "options": [
+        "The same risks as the S.P.F. No. 1 Owner’s Policy",
+        "Garage, dealer, or body shop automobile businesses",
+        "Legal liability for collision to customers’ vehicles",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Under the Standard Owner’s Form S.P.F. No. 1, which of the following uses, unless permission is given by the insurer, are prohibited regardless?",
+      "options": [
+        "Carrying explosives",
+        "Carrying passengers for compensation",
+        "Rental or lease of the automobile",
+        "Any race or speed test"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The Standard Endorsement Form No. 20 is:",
+      "options": [
+        "Family Protection Endorsement",
+        "Permission to drive non-owned automobiles",
+        "Loss of Use Endorsement",
+        "Valued Automobile(s) Endorsement"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following endorsements is required to be added to a client’s automobile policy is they purchased their vehicle in a “hail sale”?",
+      "options": [
+        "SEF 13D",
+        "SEF 40",
+        "SEF 27",
+        "SEF 13H"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following endorsements are required to provide Section C coverage to a non-owned vehicle when it is being used and the insured vehicle is not broken down, lost, destroyed, or sold?",
+      "options": [
+        "SEF 20",
+        "SEF 27",
+        "SEF 30",
+        "SEF 44"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Insured is hit by a third party who ran a traffic light while impaired. Witnesses confirm the Insured had the green light. How will the SEF 44 respond?",
+      "options": [
+        "It will indemnify absolute liability only",
+        "It will respond to the Insured’s injury damages after the initial $200,000, up to the policy limit",
+        "It will pay all of the Insured’s injuries",
+        "It will pay all property damage limited by absolute liability requirements"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "An Insured allows their 8-year-old son to operate a quad. The S.P.F. No. 1 provides coverage for unlicensed, unqualified, or underage drivers while the quad is used off public highways provided:",
+      "options": [
+        "An SEF 32 is endorsed to the policy",
+        "An SEF 40 is endorsed to the policy",
+        "The quad is not being operated across a lake",
+        "The quad is not being operated without a helmet"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Your insured is renting a vehicle while on vacation in Florida and carries Section A, Section B, and Section C Subsections 2 and 3. All of the following coverages extend to the rental vehicle except:",
+      "options": [
+        "Damage to the hotel when the insured drives into it",
+        "Damage to the hotel concierge when the insured drives into them",
+        "Injury to the insured’s son in the backseat when the insured drives into the hotel",
+        "Damage to the rental vehicle when the insured drives into the hotel"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Your insured carries an SPF 1 with an SEF 20 and Collision coverage. While driving in the USA, his vehicle is involved in an accident. How will the SEF 20 respond?",
+      "options": [
+        "Immediate rental vehicle coverage plus hotel costs",
+        "Rental vehicle coverage after 72 hours plus hotel costs",
+        "Immediate rental vehicle coverage if undriveable; hotel costs are not covered",
+        "Coverage depends on the insurance company wording"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A man owns a vehicle and wants to insure it for his wife to drive daily. How should the policy be written?",
+      "options": [
+        "In both names",
+        "In her name since she is the main driver",
+        "In his name as owner with his wife rated as principal driver",
+        "In both names with him as principal driver"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The SEF 30 limits liability damage from an auto policy, making it CGL for attached equipment. Which endorsement limits physical damage to the attached equipment itself and makes it Commercial Property Insurance?",
+      "options": [
+        "SEF 20",
+        "SEF 27",
+        "SEF 30A",
+        "There is no endorsement"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Transportation Network Auto Policy for ride-share operators (e.g., Uber) works as follows:",
+      "options": [
+        "The insured is on their own SPF #1 until passengers are accepted",
+        "The insured SPF #1 is suspended while engaged in ride-share activity",
+        "Losses while the app is active with passengers are covered under SPF #9",
+        "All of the above statements are true"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Section C of an SPF #4 Garage Policy differs from SPF #1 primarily because:",
+      "options": [
+        "There are no differences",
+        "All Perils is not available under SPF #4",
+        "Collision is not offered for customers’ vehicles",
+        "None of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following businesses require an SPF #4?",
+      "options": [
+        "A dry cleaner delivering clothes",
+        "A car detailing and alarm installation company",
+        "A hotel with valet parking",
+        "A self-serve car wash",
+        "B and C"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Which statement is FALSE regarding the standard auto application?",
+      "options": [
+        "A full vehicle description is required",
+        "The intent is to establish territory of use",
+        "Annual driving distance is required",
+        "After-market modifications are requested"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Under Third Party Liability (Section A), the insured agrees to:",
+      "options": [
+        "Reimburse the insurer for absolute liability payments",
+        "Investigate, negotiate, and settle claims",
+        "Reimburse the insurer for medical aid expenses",
+        "Advise the insurer which law firm they choose"
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "title": "Advanced Commercial Knowledge Quiz",
+  "passingGrade": 80,
+  "questions": [
+    {
+      "question": "When leaving for the evening, the clerk at a store which has burglary coverage is leaving, and a customer watches with their i-phone, to see the code the staff member enters. The staff member locks up behind her when she leaves, but the thief stays behind hiding behind a shelf, having recorded the code. The thief then proceeds to steal all of the inventory through the door which he disengages. No alarms sound as he had entered the code. How will the insurer respond?",
+      "options": [
+        "No coverage as there is no visible sign of forced entry",
+        "Covered because they have robbery coverage",
+        "Covered because they have theft coverage",
+        "No coverage because the staff member locked the door properly"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What types of risks should need to have Crime Insurance coverage which covers safe burglary and fidelity insurance which is unlawful acts of employees, whether acting alone or in collusion with others?",
+      "options": [
+        "All retail stores including drug stores, dollar stores",
+        "Only churches and social halls",
+        "Banks and places which have cash on hand",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Gerry hires Matt’s Contracting Inc to build cabinets above the washer’s in his laundromat. Matt’s Contracting Inc has a property and general liability policy, and is bonded, which is partly why Gerry hired Matt at Matt’s Contracting to complete the job. When the job is fully complete, and both parties sign off, what is it called if there is a futher loss years later when the cabinet falls off the wall and injures someone doing their laundry?",
+      "options": [
+        "It becomes Matt's Contracting Inc liability under Products and Completed Operations coverage",
+        "Neither is liable for damages to a third party",
+        "Always the Commercial General Liability of Gerry's Laundry, whether it is an incorporated company or not",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Our insured owns a hair salon. They sell products for hairstyling, including hairspray, spritz, mouse and gels as well as hairdryers and straightening irons. They have gels and mouse for use inside the salon when styling hair with their owned hairdryers. Which of the following is considered covered under stock coverage?",
+      "options": [
+        "The product for sale plus product used in the salon is all considered stock",
+        "Only the product for sale is considered stock",
+        "The product for sale is considered stock but the product used in salon for treatments and styling is considered equipment",
+        "It depends on the insurers wordings"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The basic principle of business interruption insurance is:",
+      "options": [
+        "To arrange alternate employment for employees while the building is being repaired after an insured loss",
+        "To restore the premises to the condition it was prior to the loss",
+        "To cover the cost of relocating the business",
+        "To restore the income that would have been earned had the business not been interrupted"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Coverage provided under a Boiler and Machinery policy will include, in addition to the boiler and machinery itself:",
+      "options": [
+        "Electrical apparatus, air conditioning units, telephone equipment",
+        "Production machinery",
+        "Computers",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A Boiler and Machinery policy provides coverage for the boiler, but may also cover:",
+      "options": [
+        "Mechanical and electrical equipment",
+        "Printing presses",
+        "X-ray machines",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Safe burglary insurance (policy or rider):",
+      "options": [
+        "Does not require signs of forced entry",
+        "Provides a small limit of insurance for theft from an insured's home",
+        "Includes the taking of the safe itself from the insured's premises",
+        "Includes a small amount of insurance for stock taken from showcases or show windows"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Business Interruption insurance comes in various forms. Which statement is true of Profits form?",
+      "options": [
+        "First optioProfits form will pay is for 12 months or the end of the indemnity period",
+        "Profits forms require 100% coinsurance requirement",
+        "Longer indemnity periods can be purchased for additional premiums",
+        "All of the above statements are true"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which is the correct definition of Robbery?",
+      "options": [
+        "The actual or attempted robbery by a person who unlawfully enters or exits a premises",
+        "The taking of property from a custodian by a person who causes or threatens bodily harm or commits an overt unlawful act witnessed by the custodian",
+        "The conversion of property belonging to another",
+        "The loss or damage to money or securities because of the dishonest act of an employee or a contractor"
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "title": "Industry Knowledge & Regulation Quiz",
+  "passingGrade": 80,
+  "questions": [
+    {
+      "question": "Which organization manages the Arbitration Agreement in Canada?",
+      "options": [
+        "Canadian Insurance Claims Managers Association",
+        "Insurance Bureau of Canada",
+        "Insurance Institute of Canada",
+        "National Arbitration Council of Canada"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which organization is involved in broker distribution channels, improving and implementing technology standards including e-signatures, firewalls, and proof of insurance delivery?",
+      "options": [
+        "Centre for Study of Insurance Operations",
+        "Underwriter Laboratory of Canada",
+        "Insurance Institute of Canada",
+        "Alberta Insurance Council"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Using the Alberta Automobile Insurance Rate Board GRID Rate Calculator in Alberta, what driving record is provided to a new driver with a driver’s training approved certificate?",
+      "options": [
+        "GRID step −5 discounted rate",
+        "GRID step −2 discounted rate",
+        "GRID step +2 surcharged rate",
+        "GRID step +5 surcharged rate"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Alberta Insurance Rating Board instituted GRID rating in October 2004 to avoid brokers over-populating Facility Association and residual markets. When a person has taken driver training and is a new driver, they start at GRID step −2. How should this be explained to the client?",
+      "options": [
+        "This provides a 10% reduction in premiums, and they move to a 15% discount the following year if claims-free",
+        "This provides a 10% reduction in premiums, and they move to a 20% discount the following year if claims-free",
+        "This provides a 10% reduction in premiums and they remain at this level until they earn driving experience, then move to further reductions",
+        "GRID rating is not the same across all insurers and depends on insurer interpretation"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The administration of the Canadian Inter-Company Arbitration Agreement is provided by which association?",
+      "options": [
+        "Alberta Insurance Council",
+        "Canadian Association of Direct Relationship Insurers",
+        "Canadian Insurance Claims Managers Association",
+        "Insurance Brokers Association of Canada"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Insurance Bureau of Canada administers the Intercompany Claims Settlement Agreement and performs other functions. Which of the following is NOT an activity of the Insurance Bureau of Canada?",
+      "options": [
+        "Development of advisory model policy wordings",
+        "Claims standards with high ethics and claims arbitration",
+        "Insurance crime-related investigation",
+        "Advocating industry positions with government and stakeholders"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Institute for Catastrophic Loss Reduction focuses on which of the following?",
+      "options": [
+        "Developing cost-effective ways to build stronger structures",
+        "Risk management practices to reduce catastrophic losses",
+        "Promoting consumer practices to prevent losses",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "When the insured pays premiums directly to the insurer rather than through a broker (Agency Bill), this billing method is called:",
+      "options": [
+        "Direct Bill",
+        "Insurer Bill",
+        "Monthly Pay",
+        "Electronic Funds Transfer"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Lloyd’s of London is:",
+      "options": [
+        "Not an insurer, but a marketplace with experienced and specialized brokers",
+        "Not an insurer, but a marketplace with experienced and specialized producers",
+        "An insurer with experienced and specialized brokers",
+        "Not an insurer, but a marketplace with experienced and specialized underwriters"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A trust account held by brokers or agents is used to deposit:",
+      "options": [
+        "Premiums collected to pay insurers",
+        "Commissions earned",
+        "Contingent profit commissions",
+        "Earned premiums only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Besides advocating to government, what other role does the Insurance Brokers Association of Alberta (IBAA) accomplish?",
+      "options": [
+        "Licensing and CE-accredited courses",
+        "CIP designation",
+        "Networking events with brokers",
+        "A and C"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A client owns a farm personally and a convenience store under a numbered company. They ask whether spreading insurance across multiple insurers saves money and whether the store can pay farm premiums. How do you respond?",
+      "options": [
+        "Insure all risks with one insurer for multi-policy discounts; policies must be written in the name of the asset owner, and insurers do not care who pays premiums",
+        "Spread risks across different insurers to avoid over-populating one market",
+        "Insure under one named insured but monitor aggregate liability limits",
+        "Insure together only if all premiums are paid in one cheque"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "On a Commercial Crime policy, employee dishonesty coverage:",
+      "options": [
+        "Is written on a discovery basis",
+        "Is also known as fidelity insurance",
+        "Covers employees acting alone or in collusion",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A liquor store is found liable after a defective bottle causes injury. This is an example of which type of liability?",
+      "options": [
+        "Operations",
+        "Products",
+        "Contractual",
+        "Premises"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A conflict of interest exists when an intermediary:",
+      "options": [
+        "Charges excessive interest on a payment plan",
+        "Looks after the best interest of the client",
+        "Acts under incentive contrary to the client’s best interest",
+        "Commits a civil wrong other than breach of contract"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Statutory Conditions require insurers to remain on risk in which situations?",
+      "options": [
+        "Material misrepresentation, fraud, arson, non-disclosure",
+        "Title by succession, death, bankruptcy proceedings, operation of law",
+        "Misrepresentation, bankruptcy, death, arson",
+        "There are no situations where insurers must remain on risk"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How long must a broker retain an ex-client’s lapsed file?",
+      "options": [
+        "3 years",
+        "7 years",
+        "10 years",
+        "As long as deemed reasonable"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What does insurance do for society?",
+      "options": [
+        "Provides peace of mind",
+        "Allows employment to increase",
+        "Provides overseas economic benefit",
+        "Gives satisfaction to brokers"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In non-government owned provinces, the residual market program providing compulsory auto insurance is called:",
+      "options": [
+        "Facility Association",
+        "Facultative reinsurance",
+        "All-comers rule",
+        "High-risk auto market compliance"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "After an at-fault claim, how does a GRID-rated driving record change?",
+      "options": [
+        "Downward 5 steps",
+        "No movement",
+        "Upward 5 steps",
+        "No movement if under 25 with driver training"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which drivers are rated under GRID programs?",
+      "options": [
+        "Canadian drivers new to Alberta",
+        "Newly licensed drivers with no training",
+        "Former Albertans returning from abroad",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which activity is NOT performed by the Insurance Bureau of Canada?",
+      "options": [
+        "Developing advisory model policy wordings",
+        "Handling claims arbitration",
+        "Providing claims-related investigations",
+        "Advocating industry positions"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A hard market occurs when:",
+      "options": [
+        "Prices decrease, demand increases, supply decreases",
+        "Prices increase, demand increases, supply decreases",
+        "Prices decrease, demand decreases, supply increases",
+        "Prices increase, demand decreases, supply increases"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is an insurance intermediary and which organization supports their professional standards?",
+      "options": [
+        "Insurer; Insurance Brokers Association of Canada",
+        "Broker; Insurance Brokers Association of Canada",
+        "Claimant; Insurance Brokers Association of Canada",
+        "All of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Under the Fair Treatment of Customers guidance, which is an appropriate business practice for an intermediary?",
+      "options": [
+        "Avoid and manage conflicts of interest",
+        "Be aware of conflicts of interest",
+        "Report conflicts to Alberta Insurance Council",
+        "All of the above"
+      ],
+      "answer": 0
+    }
+  ]
+}

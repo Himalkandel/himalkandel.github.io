@@ -1,0 +1,56 @@
+{
+  "title": "Coinsurance Quiz",
+  "passingGrade": 80,
+  "questions": [
+    {
+      "question": "A building worth $400,000 is insured for $240,000 and subject to an 80% Co-insurance Clause. A fire loss causes damage in the amount of $84,000. The Insured will recover:",
+      "options": [
+        "$84,000",
+        "$67,200",
+        "$63,000",
+        "$80,000"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A building worth $200,000 is insured for $125,000 by a property policy containing an 80% co-insurance clause. The building is totally destroyed by the peril of fire. The insured will recover which of the following amounts?",
+      "options": [
+        "$97,662.50",
+        "$100,000.00",
+        "$125,000.00",
+        "$156,250.00"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A building worth $200,000 is insured for $125,000 by a property policy containing an 80% Co-insurance Clause. Under what specific amount of loss would the co-insurance penalty not be applied if the waiver of co-insurance is 2% subject to a maximum of $5,000?",
+      "options": [
+        "$5,000.00",
+        "$2,500.00",
+        "$4,000.00",
+        "$3,200.00"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Justin Case is a homeowner who has experienced a fire to his home causing a total loss. The home is currently valued at $400,000. He has a Comprehensive Homeowner’s Policy insuring his dwelling for $380,000 with a Replacement Cost Guarantee on the building and replacement cost on contents. He has met his co-insurance requirement. When the house is totally destroyed by the peril of fire, how much will the insurer pay to rebuild Justin’s house?",
+      "options": [
+        "380,000",
+        "400,000",
+        "780,000",
+        "Whatever it costs the insurer"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Ted, Jed and Fred are three brothers who own a store called Ed’s Emporium. Ted owns 50% of the store, Jed owns 30% of the store, and Fred owns the other 20% of the store. Jed lives in an apartment above the store and has $20,000 contents there. The store is valued at 280,000 and insured only for $100,000. When the store is burned in a total loss fire, how much will Jed receive for his interest in the store ownership?",
+      "options": [
+        "100,000",
+        "$50,000",
+        "$30,000",
+        "$84,000"
+      ],
+      "answer": 2
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "title": "Commercial Insurance Quiz",
+  "passingGrade": 80,
+  "questions": [
+    {
+      "question": "In a Commercial Broad form policy, “Building” means: the building(s) described on the “Declarations Page” and includes:",
+      "options": [
+        "Fixed structures pertaining to the building(s) and located on the premises; additions and extensions communicating and in contact with the building(s); temporary fixtures and fittings attached to and forming part of the building; materials, equipment and supplies on the premises for the maintenance of and normal repairs, alterations and improvements to the building.",
+        "Fixed structures pertaining to the building(s) and located on the premises; additions and extensions communicating and in contact with the building(s); permanent fittings and fixtures attached to and forming part of the building(s); materials, equipment and supplies on the premises for maintenance of, and normal repairs and minor alterations to the building or for building services; growing plants, trees, shrubs or flowers inside the building used for decorative purposes when the Insured is the owner of the building.",
+        "Fixed structures attached to and forming part of the building(s), additions and extensions communicating from the building(s); permanent fixtures and fittings communicating from the building(s); outdoor trees, shrubs and plants growing inside and outside the building.",
+        "Fixed structures communicating from and coming in contact with the building; materials equipment and supplies located on the premises, permanent fittings and fixtures attached to and forming part of the building and detached private structures; growing outdoor trees shrubs and plants coming into contact with the building."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Coverage D of CGL, Commercial General Liability, Tenants Legal Liability states:",
+      "options": [
+        "We will pay those sums that the insured becomes legally obligated to pay as compensatory damages because of property damage to which this insurance applies. This insurance applies only to property damage to premises of others rented to you or occupied by you.",
+        "We will pay those sums that the insured becomes legally obligated to pay as indemnification for damages for which this insurance applies. This information applies only to property damage to your own property which is owned or occupied by you.",
+        "We will pay those sums that the insurer becomes legally obligated to pay as compensatory damages because of property to which this insurance contract applies. This insurance applies only to the property damage to premises of others rented to you or occupied by you.",
+        "Tenants Legal Liability is an exclusion under every commercial insurance policy today."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A business owner closes his shop during the slow period and takes a 3 month vacation. During this vacation, the store is considered:",
+      "options": [
+        "Vacant and unoccupied",
+        "Vacant because he is coming back in 3 months time",
+        "There is no coverage to the building, equipment or stock as he is away for greater than 30 days",
+        "There is no requirement to inform the insurer of his closing the store"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Business Interruption insurance and Boiler and Machinery coverage:",
+      "options": [
+        "Are separate policies that an insured will often require",
+        "Are available via extension of coverage and are included within every commercial policy",
+        "Are and endorsement easily added to every commercial policy",
+        "Are never covered under any policy or combination of policies in the insurance industry"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "“Stock” coverage is defined as:",
+      "options": [
+        "All contents normal to the insured premises which they are under obligation to keep insured and for which should remain insured.",
+        "Merchandise of every description usual to the Insured's business; packing, wrapping and advertising materials; and similar property belonging to others which the Insured is under obligation to keep insured or for which he is legally liable.",
+        "Merchandise of every description usual to the Insured’s and Insurers business; packing, wrapping and advertising materials; similar property belonging to the insured which the insured is under obligation to keep insured.",
+        "All contents normal to the insureds premises"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "You have a casual encounter with one of your customers, he is eccentric and he likes exotic things. He tells you he is just back from holidays and somehow he managed to bring with him a little tree that in time will grow a very poisonous fruit. You advise him to stop by your office in order to ask some questions in this regard. What kind of liability he is exposed to if for some reason one of this “fruits” escapes his property?",
+      "options": [
+        "Liability",
+        "Strict liability",
+        "Host liability",
+        "Vicarious liability"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of Libel and Slander?",
+      "options": [
+        "Slander: occurs when a person’s reputation is defames or injured by a published writing. Libel: is verbal defamation or injury of a person’s reputation",
+        "Slander: is verbal defamation or injury of a person’s reputation. Libel: occurs when a person’s reputation is defames or injured by a published writing",
+        "Slander and Libel both are defamation whether it is verbal or written",
+        "Neither Libel or Slander are considered committing a wrongful act"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Liability policies are written on an occurrence or claims-made basis, which of the two is the most common?",
+      "options": [
+        "Occurrence basis; covers claims that occur during the policy period. This is the most common.",
+        "Claims-made basis: covers claims that are reported during the term of the policy. This is the most common.",
+        "Occurrence basis: covers claims that are reported during the term of the policy. This is the most common.",
+        "Claims-made basis: covers claims that occur during the policy period. This is the most common."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the exposure for a customer that sells a product manufactured by one or more companies?",
+      "options": [
+        "None, if some problem arises due to the product malfunction is the liability of the company or companies manufacturing such product",
+        "Wholesaler could be held liable even if the client is not part of the manufacturing. Being the distributor or wholesaler is being a part of the chain production",
+        "He/she could be held totally liable for not being careful enough to check the products he or she sells",
+        "None of the above."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why is it so important to ask questions to the client in regards to operations exposures and off premises exposures?",
+      "options": [
+        "Often the client is not well aware of all the liability situations they may be exposed to. When asking specific questions in regards to what they do, the client themselves will help you understand this situations in and off the premises, from material facts to actions leading to damage or injury of others. This will help you in advising the right coverage.",
+        "Get to know your client is always important. A broker should always gather as much information about the client as possible so the underwriter department can assess the risk in a proper way.",
+        "A and B",
+        "It isn’t important to know the operations exposures and off premises exposures."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does Business Interruption Insurance include?",
+      "options": [
+        "Pay expenses when they reduce amount of loss, coverage not limited to policy period, insures same perils as property policy, a contract of indemnity including paying expenses and loss of profit.",
+        "Pays expenses, loss of profit, and insures same perils as property policy, coverage limited to policy period.",
+        "Insures different perils than property policy, a contract of indemnity, coverage limited to policy period.",
+        "Gives coverage for the business may be forced to close for a lengthy period. The business is able to resume partial operations at the insured or other location."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Why is it important for anyone to have an umbrella liability policy?",
+      "options": [
+        "In the present time people are more likely to sue. The limit on primary policies is often inadequate for potentially large losses; an umbrella liability policy is likely to provide better protection for the insured. This type of policy may also cover exposures not covered by the basic liability policy.",
+        "It is not important for everyone, umbrella liability policies are meant to be for people with a specific lifestyle and their positions in the community. An umbrella liability policy is likely to provide better protection for this kind of insured. It may also cover exposures not covered by the basic liability policy.",
+        "It is not important for everyone, an umbrella liability policy is meant for people who travel a lot either for business or pleasure since they provide wide territorial limits cover, usually worldwide.",
+        "Only people with commercial policies should have an umbrella liability policy, because companies are more likely to be sued as an entity."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Insured under “Building” coverage, which of the following is NOT specifically listed as covered under Commercial Named Perils or Broad Form commercial policy?",
+      "options": [
+        "Permanently attached additions and extensions such as balcony or awning with a sign",
+        "Materials on premises used for normal maintenance and general repairs, such as mop, bucket and window cleaning equipment",
+        "Swimming pools",
+        "Indoor trees growing from the building, grown for decorative purposes"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is Coverage B of a Commercial General Liability (CGL) policy?",
+      "options": [
+        "Personal and Advertising Injury Liability",
+        "Bodily Injury and Property Damage",
+        "Tenants Legal Liability",
+        "Medical Pauments"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Josie is an avid crafter. While visiting Hobby Loft to purchase specialized pens, a salesperson offers to demonstrate how to get the best results from this product. While removing the pen cap, the sales clerk accidentally splashes onto Josie’s expensive suede jacket. Under the CGL of the Hobby Loft, this is an example of:",
+      "options": [
+        "Completed operations loss",
+        "Property damage loss",
+        "Bodily injury loss",
+        "Professional Liability claim"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Outdoor trees shrubs and plants coverage is different for commercial risks than it is for homeowners policies. How does this differ?",
+      "options": [
+        "Homeowners have outdoor trees, shrubs, plants covered under Coverage A - Dwelling Building, while commercially it is Building coverage",
+        "Homeowners have outdoor trees, shrubs, plants covered under Coverage A - Dwelling Building, while commercially these trees are not covered at all",
+        "Homeowners have outdoor trees, shrubs, plants covered under Coverage A - Dwelling Building, while commercially it is Extension of Coverage for Property policies",
+        "None of the above"
+      ],
+      "answer": 2
+    }
+  ]
+}
