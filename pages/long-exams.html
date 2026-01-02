@@ -11,11 +11,11 @@
   <div class="card" id="quizSelect">
     <h1>Insurance Practice Exams</h1>
 
-    <button onclick="loadQuiz('../data/exams/exam1.json')">
+    <button onclick="loadExam('exam1.json')">
       Exam 1 – AIC General Insurance (140 Questions)
     </button>
 
-    <button onclick="loadQuiz('../data/exams/exam2.json')">
+    <button onclick="loadExam('exam2.json')">
       Exam 2 – AIC General Insurance
     </button>
 
@@ -30,7 +30,7 @@
     <p>Total Questions: <strong id="count"></strong></p>
     <p>Passing Grade: <strong>80%</strong></p>
 
-    <button onclick="startQuiz()">Start Exam</button>
+    <button onclick="startExam()">Start Exam</button>
     <button class="secondary" onclick="window.location.reload()">Cancel</button>
   </div>
 
@@ -56,8 +56,8 @@
     <h1 id="status"></h1>
     <p>Your Score: <strong><span id="score"></span>%</strong></p>
 
-    <button onclick="reviewQuiz()">Review Answers</button>
-    <button onclick="retakeQuiz()">Retake Exam</button>
+    <button onclick="reviewExam()">Review Answers</button>
+    <button onclick="retakeExam()">Retake Exam</button>
     <button class="secondary" onclick="window.location.href='../main.html'">
       Back to Main Menu
     </button>
@@ -66,8 +66,8 @@
   <!-- REVIEW SCREEN -->
   <div class="card hidden" id="review"></div>
 
-  <!-- QUIZ ENGINE (same as quizzes) -->
-  <script src="../js/quiz-engine.js"></script>
+  <!-- EXAM ENGINE -->
+  <script src="../js/exams.js"></script>
 
 </body>
 </html>
