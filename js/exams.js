@@ -8,7 +8,6 @@ let examKey = "";
 ========================= */
 function loadExam(file) {
   examKey = `longExamSession_${file}`;
-  localStorage.removeItem(examKey); // 🔥 clears old sessions on phone too
 
   fetch(`../data/exams/${file}`)
     .then(res => res.json())
