@@ -1,0 +1,799 @@
+{
+  "title": "AIC General Insurance – Practice Exam 2 (Updated Feb 2025)",
+  "passingGrade": 80,
+  "questions": [
+    {
+      "question": "Insurance is BEST described by which of the following?",
+      "options": {
+        "a": "A method of distributing all losses among many people",
+        "b": "A method of spreading the losses of a few among the many contributors",
+        "c": "A method of rewarding the wise policy holders for foresight in purchasing the coverage",
+        "d": "A method of ensuring large, wealthy companies bear the majority of the loss and the Insured only pays the deductible"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Your insured has a Basic home policy and auto policy insuring Section A, Section B, Section C, Collision and Comprehensive. They drive into their own home. How will their policies respond?",
+      "options": {
+        "a": "Damage to the house, Coverage A of the home policy; damage to the auto, Section C Subsection 2 of the auto policy",
+        "b": "Damage to the house, Coverage A of the home policy; damage to the auto Section C Subsection 3 of the auto policy",
+        "c": "Damage to the house, Section A of the auto policy; damage to the auto Section C Subsection 3 of the auto policy",
+        "d": "Damage to the house, Section A of the auto policy; damage to the auto Section C Subsection 2 of the auto policy"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "Our client carries Section A, Section B, Section C, subsections 2 (collision) and 3 (comprehensive) on their SUV. On the snow vehicle, they carry Section A, Section B, Section C, Specified Perils only. While ice fishing, they hear the ice cracking and in an effort to get away, they put the snow vehicle back on the trailer but forget to attach the tie-down straps. The ice cracks as the SUV and trailer pull away, but the snow vehicle slides off the trailer and into the ice. There is no damage to the trailer or to the SUV. How will the policy you sold on the snow vehicle respond?",
+      "options": {
+        "a": "Covered under Subsection 2 of Section C - Collision",
+        "b": "Covered under Subsection 3 of Section C - Comprehensive",
+        "c": "Covered under Subsection 4 of Section C – Specified Perils",
+        "d": "No Coverage"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "Which of the following statements is true?",
+      "options": {
+        "a": "Stock companies are owned by the shareholders.",
+        "b": "Government Insurers have more freedom under the Insurance Act than private companies operating in the same province.",
+        "c": "The main function of mutual insurance companies is to make money",
+        "d": "All of the above",
+        "e": "None of the above"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "All of the following, except one, have a bona fide “insurable interest” in the property insured. Choose the exception.",
+      "options": {
+        "a": "The contract purchaser",
+        "b": "An individual expecting to be a creditor or any property holder",
+        "c": "The title holder",
+        "d": "The mortgagee"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "An agent issued a fire policy on the Insured’s house but collected only half the premium with the balance promised 30 days later. The Insured’s house was destroyed 90 days later and the agent had still not received the other half of the premium. Which of the following is TRUE?",
+      "options": {
+        "a": "The policy was void and the Insured received only part of the premium he had paid",
+        "b": "The Insured was paid as much of the insurance limit in proportion to the premium he had paid",
+        "c": "The Insured’s claim was paid out up the policy limits stated on the policy",
+        "d": "No claim is recoverable by the Insured under the rules of The Insurance Act"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Bankruptcy or insolvency of a policy holder affects the Insurer’s liability as described in one of the following:",
+      "options": {
+        "a": "Has no bearing upon the insurance contract",
+        "b": "Required that any unearned premium be considered fully earned to termination of the policy term",
+        "c": "Automatically voids the contract",
+        "d": "Requires that the amount of any prepaid premium be refunded"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Which of the following statements is correct in connection with the 80% Co-Insurance Clause?",
+      "options": {
+        "a": "It restricts the insurance payable to less than 80% of the actual cash value of the property",
+        "b": "The Insured can collect only 80% of any loss",
+        "c": "If the amount of insurance is less than 80% of the value of the property, payment may be less than the actual loss",
+        "d": "The amount of insurance carried must, by law, be not less than 80% of the value of the property"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "To obtain a Level 3 license in the Province of Alberta, you must:",
+      "options": {
+        "a": "Not less than a Grade 12 education and a list of 100 prospects",
+        "b": "At least five years’ experience as a sales agent",
+        "c": "Been licensed with Level 2 license for at least 24 months of the preceding 48 months",
+        "d": "Been licensed with Level 2 license for at least 24 months of the preceding 36 months"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "The Insurance Act specifies that an applicant must:",
+      "options": {
+        "a": "Pass a criminal record check",
+        "b": "Have a good business reputation",
+        "c": "Have a reasonable knowledge of the kinds of insurance he/she will be licensed to sell",
+        "d": "All of the above"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "An insurance agent:",
+      "options": {
+        "a": "May be a corporation",
+        "b": "May bind and countersign policies",
+        "c": "May be a partnership",
+        "d": "All of the above"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which of the following employees of an insurance agency is NOT required to be licensed?",
+      "options": {
+        "a": "An office manager who communicates with an Insured about renewals",
+        "b": "An office employee who sells to his friend and relatives only, because of their unique position in his life",
+        "c": "An office clerk assisting in claims reports and compiling of claims information",
+        "d": "An office manager who also solicits new insurance principally on the telephone"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which of the following is a situation that is common cause of E & O claims?",
+      "options": {
+        "a": "Recommending the incorrect limits of insurance",
+        "b": "Failure to send amendments to the insured",
+        "c": "Failure to place coverage after being instructed to do so",
+        "d": "All of the above"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "Before an Insurer or client can recover from the broker:",
+      "options": {
+        "a": "The broker must have E & O insurance",
+        "b": "The broker must have made an error or omission causing loss to either the client or company",
+        "c": "The broker must be a limited company",
+        "d": "Only the manager can be negligent"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "A cover note or binder letter is interim proof of insurance. Which of the following is not found on a cover note?",
+      "options": {
+        "a": "Policy number, premium, location insured",
+        "b": "Inception and expiration dates, named insured, mortgagee",
+        "c": "Policy Term, mortgagee, limits of insurance",
+        "d": "Name insured, mortgagee, location insured"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "A broker’s binding power are conveyed though:",
+      "options": {
+        "a": "The Insurance Act",
+        "b": "Their License",
+        "c": "Their agency contracts with their individual companies",
+        "d": "The facet of her being entrusted with policy supplies"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "The Subrogation Clause of the Insurance Act:",
+      "options": {
+        "a": "Gives the Insurer the right to require the Insured to assign to the Insurer all rights of recovery against any party liable for the loss to the extent that the Insurer has made payment or assumes liability",
+        "b": "Provides that other policies covering the same loss shall contribute in their pro rata proportion",
+        "c": "Permits the Insurer to take salvage if the claim has been paid in full",
+        "d": "Permits the Insured to take salvage if the claim has been paid in full"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "In the absence of the Broker Manager, a licensed employee may do one of the following:",
+      "options": {
+        "a": "Complete an application and confirm to the applicant that the risk is covered",
+        "b": "Do all acts normally performed by the broker awaiting supervision and review by Level 2 Broker",
+        "c": "Complete an application only and not submit through the portal",
+        "d": "Answer phones, invoice and submit policy to Underwriting"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Misrepresentation is a very serious charge in the insurance business, and means:",
+      "options": {
+        "a": "Failure to explain the method used in computing the premium rate",
+        "b": "Requiring the Insured to divulge all pertinent facts in the sale of coverage",
+        "c": "Letting the Insured believe he has coverage for hazards which he doesn’t actually have",
+        "d": "Comparing coverage of existing and proposed policies"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "As a condition requirement of a loan of sum of money, a creditor may NOT impose one of the following:",
+      "options": {
+        "a": "That the original policies of insurance be remitted to him",
+        "b": "That insurance be obtained to protect the property offered as security",
+        "c": "That the kind and amount of insurance be acceptable to him",
+        "d": "That insurance be placed through a particular agent or a particular company"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "Under Subsection 2, of the Accident Benefits section of the SPF #1, Death Benefits will be paid in the event that both the head of household and spouse are killed:",
+      "options": {
+        "a": "To the oldest surviving dependent relative",
+        "b": "To the youngest surviving dependent relative",
+        "c": "Equally to all surviving dependent relatives",
+        "d": "None of the above"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Under the Deductible Clause applicable to Sections C of S.P.F. #1, some losses are not subject to a deductible. Under any circumstance, under which situation will the insurer not apply a deductible?",
+      "options": {
+        "a": "Fire, lightning, theft",
+        "b": "Fire, theft of the entire vehicle, windstorm",
+        "c": "Fire, theft of the entire vehicle, lightning",
+        "d": "Fire, lightning, certain types of explosion"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Under Section B, Subsection 2 of the SPF #1, the head of the household is:",
+      "options": {
+        "a": "The oldest person residing in the house",
+        "b": "The person earning the highest salary at the time of the accident",
+        "c": "The person with the largest income in the year proceeding the date of the accident",
+        "d": "The oldest male member of the household"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Under the General Provisions, Definitions and Exclusions section of the SPF #1, a newly acquired vehicle is automatically covered by the insurer’s contract, subject to provisions that the insured is already insured with the insurer, and has all vehicles insured there for:",
+      "options": {
+        "a": "30 days from the acquisition date of the newly acquired vehicle",
+        "b": "15 days from the acquisition date of the newly acquired vehicle",
+        "c": "14 days from the date on the bill of sale",
+        "d": "14 days from the delivery date of the newly acquired vehicle"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "Under Statutory Condition 8, Termination, an automobile contract may NOT be cancelled by?",
+      "options": {
+        "a": "The broker",
+        "b": "The lien holder",
+        "c": "The third party",
+        "d": "All of the above",
+        "e": "None of the above"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "According to the General Provisions of an S.P.F. No. 1, the policy would NOT apply:",
+      "options": {
+        "a": "On a ferry between Vancouver and Seattle",
+        "b": "In Alaska, New York State, and while driving in California",
+        "c": "In Mexico, on a one way ferry trip between Canada and England",
+        "d": "In Yukon Territories, on a one way ferry trip between Vancouver and Hawaii"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "The Additional Agreements in Section C of the S.P.F. #1 waives subrogation under Section C against every person, who with the Insured’s consent has care, custody, or control of the vehicle:",
+      "options": {
+        "a": "Except if involved in a race or speed test",
+        "b": "Without restriction",
+        "c": "As long as they are a member of the Insured’s family",
+        "d": "None of the above"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Under SPF #1, damage to an automobile occurring within 24 hours after a bill of sale transferring ownership of the insured automobile to another person is:",
+      "options": {
+        "a": "Covered if damage due to collision",
+        "b": "Not covered for any loss",
+        "c": "Covered for loss by theft",
+        "d": "Covered for loss if All Perils is carried on the insured’s policy"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "The SPF #1 carries a provision to pay for expenses of legal defense, but these payments are:",
+      "options": {
+        "a": "Covered in excess of policy limits as a Supplementary Payment",
+        "b": "Optional at extra cost",
+        "c": "Subject to policy limits and use up the limits of Third Party Liability",
+        "d": "Paid only if policy holder wins court case"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "An insured suffers a loss to their property in the amount of $10,000 based on replacement cost of the property. The insured’s actual value of the property on the date of purchase four years ago was $6,000. Depreciation has been agreed at 25%. Coverage carried under the policy is actual cash value. The principle of indemnity is the basis of any insurance contract and therefore the insurer will:",
+      "options": {
+        "a": "Place the insured in the same position prior to the loss and pay $6,000",
+        "b": "Place the insured in the same position prior to the loss and pay $10,000",
+        "c": "Place the insured in the same position prior to the loss and pay $7,500",
+        "d": "Place the insured in the same position prior to the loss and pay $5,500"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Under a Standard Automobile Application form, which of the following statements by an insured could void loss payment under Section C?",
+      "options": {
+        "a": "Incorrect particulars regarding previous driving suspensions",
+        "b": "Non-disclosure of additional drivers",
+        "c": "Non-disclosure of license suspensions",
+        "d": "All of the above"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "A temporary motor vehicle liability insurance card is valid for:",
+      "options": {
+        "a": "21 days",
+        "b": "30 days",
+        "c": "15 days",
+        "d": "7 days"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Johnny rents his basement of his home to his mother, who does in fact pay rent. There is a fire in the household which results in a loss to both Johnny’s property and his mother’s contents. Whose policy will respond?",
+      "options": {
+        "a": "Johnny’s policy will respond to both upstairs and rented basement suite as his mother (relative) is the occupant",
+        "b": "Johnny’s policy will respond to his premises only",
+        "c": "Johnny’s mother will require a tenant policy for coverage",
+        "d": "Johnny’s mother’s policy will respond to both"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Under Alberta’s Highway Traffic Act (also known as Traffic Safety Act) the owner of an automobile is required to carry which of the following coverage?",
+      "options": {
+        "a": "Third Party Liability (Section A) only",
+        "b": "Third Party Liability (Section A) and Accident Benefits (Section B)",
+        "c": "Third Party Liability (Section A) and Accident Benefits (Section B) and Sections C",
+        "d": "Third Party Liability (Section A) and Accident Benefits (Section B) plus SEF 44"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "A man buys a vehicle for his wife to drive to work daily. She will be the principal driver. How do you write this policy?",
+      "options": {
+        "a": "Write policy in both names and rate it for him as the driver",
+        "b": "Write policy in his name only",
+        "c": "Write policy in her name only",
+        "d": "Write policy in his name and rate it for her as the main driver"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "Under Section A of the standard auto policy, which of the following is NOT an exclusion?",
+      "options": {
+        "a": "Liability imposed by any workers compensation law",
+        "b": "Liability arising from contamination of property carried in the automobile",
+        "c": "Liability arising from the expenses incurred during an investigation",
+        "d": "Liability for injury to an employee engaged in operation or repair of the automobile"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Under Section A of an S.P.F. #1, the insured agrees to do the following:",
+      "options": {
+        "a": "Appoint an adjuster for the insured",
+        "b": "Admit liability for any damage done by the insured",
+        "c": "Appoint the insurer as its irrevocable attorney",
+        "d": "All of the above"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "The insured is prohibited from driving or operating an automobile in all of the following circumstances except one. Choose the exception.",
+      "options": {
+        "a": "While insured’s license to drive or operate an automobile is suspended",
+        "b": "Unless insured is either authorized by law or qualified to drive",
+        "c": "While under the age of 16 or other age at which a license may be issued to the insured",
+        "d": "For the transporting of clients or customers proposing to do business with the insured"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "An employer may be held legally responsible for damages caused by an employee who uses his own vehicle in commission of the employer’s business. The employer can effect coverage against this eventuality by purchasing:",
+      "options": {
+        "a": "An S.P.F. #1 – Owner’s Form",
+        "b": "An S.P.F. #2 – Driver’s Policy",
+        "c": "An S.P.F. #6 – Non-owners Automobile Policy",
+        "d": "A Business Use endorsement attached to the employee’s automobile policy"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "The application for automobile insurance forms part of the policy. By law in Alberta, therefore, it is necessary:",
+      "options": {
+        "a": "To answer all questions from 1–14 “NO” and submit to the company",
+        "b": "To answer only the questions the insured can remember",
+        "c": "To bring to the company’s attention any answers that, because of personal knowledge, you may feel the insured is not answering correctly",
+        "d": "None of the above"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Ordinarily, negligence must be established before payment will be made under:",
+      "options": {
+        "a": "Bodily Injury Liability",
+        "b": "Medical Payments",
+        "c": "Immediate Medical Aid",
+        "d": "All of the above"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Which of the following statements is true with respect to a Tenant’s Comprehensive Package Policy?",
+      "options": {
+        "a": "Would cover damage tenant did to premises if tenant was not negligent",
+        "b": "Would cover damage caused by fire if tenant was negligent",
+        "c": "Would cover damage from Insured’s dog gnawing at the door causing significant damage on one event",
+        "d": "Would cover all of the above"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "Penny McFlurry lost her job but is expecting to be re-hired in 2 or 3 months. Meanwhile she’ll use her van to deliver flowers 3 hours a week for a local florist. She asks you what she’ll need to do with her vehicle insurance to make sure she’s covered.",
+      "options": {
+        "a": "No action is necessary as her SPF #1 covers business activities",
+        "b": "Modify her existing SPF #1 to provide for occasional business use",
+        "c": "Amend the existing SPF #1 to a commercially rated SPF #1 until the insured informs us the use has changed",
+        "d": "Added a business use endorsement to her existing policy"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "The Optional Loss Settlement Clause which provides replacement cost (new for old without depreciation) on the contents in a Habitational Package Policy form affording coverage on Section I – Coverage A, B, C, D plus Section II – Liability coverages of E, F, G and H:",
+      "options": {
+        "a": "Is available provided additional premium is paid for the option",
+        "b": "Is applicable to both building and contents",
+        "c": "Is available only if co-insurance clause is attached to the policy",
+        "d": "Refers only to Coverage C – Personal Property / Contents"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "The Homeowner’s Policy excludes coverage against freezing of plumbing systems during the normal heating season but only if inhabitants were absent for:",
+      "options": {
+        "a": "More than 96 hours (More than 4 days)",
+        "b": "96 hours or more (4 days or more)",
+        "c": "More than 48 hours (More than 2 days)",
+        "d": "48 hours or more (2 days or more)"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Under the Extension of Coverage section of the Homeowner’s Comprehensive Policy form, Trees and Shrubs, which of the following is true?",
+      "options": {
+        "a": "10% of Coverage A but limited to $500 per tree, etc., with named perils coverage",
+        "b": "10% of Coverage A but limited to $250 per tree, etc., with perils coverage",
+        "c": "5% of Coverage A but limited to $500 per tree, etc., with all perils coverage",
+        "d": "5% of Coverage A but limited to $500 per tree, etc., with named perils coverage"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "Under a Personal Article Floater, it is NOT permissible to insure the following:",
+      "options": {
+        "a": "Plate glass window, siding, doors, sliding glass doors",
+        "b": "Movie camera and camera equipment",
+        "c": "Silverware, furs, bicycles",
+        "d": "Computer software, jewelry"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Which of the following statements is FALSE with respect to the Personal Effects Floater?",
+      "options": {
+        "a": "This is the ideal insurance for tourists and travelers",
+        "b": "This coverage provides coverage on contents temporarily removed worldwide",
+        "c": "This policy covers artificial teeth or limbs",
+        "d": "This policy does not cover money while the Insured is travelling"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Stamp and coin collections are best insured by?",
+      "options": {
+        "a": "Homeowners package policy (Comprehensive Form)",
+        "b": "Fine Arts Floater",
+        "c": "Personal Articles Floater",
+        "d": "Homeowners package policy (Basic Form)"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Under Coverage E – Comprehensive Personal Liability (CPL) portion of property policy, the Insurer’s liability is limited to:",
+      "options": {
+        "a": "The limit stated in the declarations plus any interest and costs",
+        "b": "The limit stated in the declaration plus any interest charges imposed",
+        "c": "The limit stated in the declaration",
+        "d": "The limit stated in the declaration plus inflation increase"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Statutory conditions are found in all policies covering the peril of fire and:",
+      "options": {
+        "a": "Impose obligations on both the insured and the insurer",
+        "b": "Impose obligations only on the Insured",
+        "c": "Are only applicable in Canadian insurance policies",
+        "d": "Cover property of a third party negligently damaged by the Insured"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "The following would be considered business property and therefore excluded under the Habitational Package policy:",
+      "options": {
+        "a": "Occasional rental of Insured’s residence",
+        "b": "Rental space of insured’s residence for incidental school occupancy",
+        "c": "Rental of 4 car spaces",
+        "d": "All of the above"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which of the following would be covered under the extension of coverage for Freezer Foods?",
+      "options": {
+        "a": "Expenses incurred to store freezer foods in cold storage unit while freezer is being repaired",
+        "b": "Food spoilage when the insured’s child pulls power cord from the wall, unobserved",
+        "c": "Food spoilage when the breaker is tripped, disrupting the power supply",
+        "d": "Damage to the freezer due to insured food spoilage, up to the limit of insurance on Coverage C"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "If a 6-year old deliberately threw a rock through the neighbour’s window:",
+      "options": {
+        "a": "The policy would pay all or part of the loss under Voluntary Property Damage",
+        "b": "If no policy was in force, the parents would have to pay for the window",
+        "c": "Would not pay for the window as the child is too young to understand the consequences of his actions",
+        "d": "There is no coverage under the contract"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Fido bit the mailman who suffered grievous injury. The Insured’s:",
+      "options": {
+        "a": "Would not be found negligent if this is the first time Fido has shown any vicious nature",
+        "b": "Policy would only pay for any legal expenses if the Insured was found not negligent",
+        "c": "Policy would pay compensatory damages and legal expenses if the mailman chose to sue the Insured",
+        "d": "Would only pay for the mailman’s medical expenses under the Voluntary medical section of CPL"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Your client, Bill West purchased a farm. You advise Bill that he requires farm insurance which will cover his dwelling and contents in the farm house, plus the rest of his farm. You recommend an endorsement be added to cover his farm machinery and equipment. This endorsement provides:",
+      "options": {
+        "a": "Coverage for scheduled equipment only",
+        "b": "Coverage subject to 100% coinsurance",
+        "c": "All Risk coverage",
+        "d": "All of the above"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Under Coverage E – Liability of our insured’s policy, damage caused by owned watercraft is not included if it is:",
+      "options": {
+        "a": "Equipped with an outboard motor in excess of 20 HP",
+        "b": "Equipped with an inboard motor of 25 HP",
+        "c": "20 feet in length",
+        "d": "All of the above"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Generally, the insuring agreement in policies of liability insurance contain all of the following conditions of coverage except one. Choose the exception:",
+      "options": {
+        "a": "Bodily injury or property damage must have been suffered by a third party",
+        "b": "The amount of any damages awarded will be included separate amount for punitive, exemplary and compensatory damages suffered",
+        "c": "The amount of any damages awarded are restricted to those that are compensatory in nature",
+        "d": "The Insured must have been legally liable for damages"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Under Coverage E – Liability, Comprehensive Personal Liability, the Insured is covered for claims arising out of:",
+      "options": {
+        "a": "Renting his home to others who he demands have tenants insurance",
+        "b": "Employment as a sales representative",
+        "c": "Temporary or part-time pursuits of an Insured persons under age 21",
+        "d": "All of the above"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Insurable interest exists when:",
+      "options": {
+        "a": "Individuals and mortgagees would suffer financially by a loss",
+        "b": "Bailees have been entrusted for safekeeping or repair of items",
+        "c": "A person may be held legally liable for their actions",
+        "d": "All of the above"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "A form that changes the terms of an insurance contract is called:",
+      "options": {
+        "a": "Rider",
+        "b": "Floater",
+        "c": "Agreement",
+        "d": "Endorsement"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "Our insured has an auto policy containing an SEF 20 endorsement. Under this endorsement, following theft of the entire vehicle, coverage for alternate means of transportation under the Loss of Use endorsement commences:",
+      "options": {
+        "a": "72 hours",
+        "b": "72 hours after report to the police or insurer",
+        "c": "The day after the report of the theft to the police or to the insurer",
+        "d": "The SEF 20 does not provide coverage for theft because the policy does"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which of the following is NOT an exclusion to a travel insurance policy?",
+      "options": {
+        "a": "Participation in professional sports",
+        "b": "Pregnancy, miscarriage, or childbirth, within 8 weeks of the expected due date, or in the case of a high-risk pregnancy",
+        "c": "Pregnancy, miscarriage, or childbirth, within 16 weeks of the expected due date, or in the case of a high-risk pregnancy",
+        "d": "Suicide, or any attempt thereat"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Bailee’s for hire have a potential for loss to a customer's property while it is in their possession. The extent of their liability may be a matter of:",
+      "options": {
+        "a": "Tort law; Contract law",
+        "b": "Common law; Substantive law",
+        "c": "Civil law; Criminal law",
+        "d": "Common law"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "This means an accident, including continuous or repeated exposure to substantially the same general harmful conditions.",
+      "options": {
+        "a": "Occurrence",
+        "b": "Accident",
+        "c": "Obsolescence",
+        "d": "Collision"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Liability insurers place a number of obligations on insured’s in the event of an occurrence, claim or action. Insured’s must:",
+      "options": {
+        "a": "Not, except at their own cost, voluntarily assume liability or self-settle any losses, assume any liability, or incur any expense other than first aid, without the consent of the insurer",
+        "b": "Provide the insurer with prompt notification of any occurrence that could lead to any claim, immediately provide the insurer with any legal documents received, authorize the insurer to obtain any records",
+        "c": "Assist in the investigation",
+        "d": "All of the above"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "Conditions indicating indifference to moral hazard include:",
+      "options": {
+        "a": "Statutory condition, indifference to loss, moral character",
+        "b": "Financial condition, indifference to gain, moral character",
+        "c": "Perils that could cause loss",
+        "d": "Financial condition, indifference to loss, moral character"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "Insured’s causing unintentional damage to the property of others will generally be covered by their liability policy. Third party property damage includes:",
+      "options": {
+        "a": "Physical injury to tangible property; all resulting loss of use of that property",
+        "b": "Physical injury to tangible assets, loss of use of those assets",
+        "c": "Physical injury to tangible property, and resultant loss of use of that property",
+        "d": "Intangible property, resulting loss of use of that property"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "A property insured for 600,000 is valued at 800,000. There is a co-insurance amount on the policy of 90%. When a loss occurs of $200,000, how much must the insured contribute toward the claim? Do not take deductible into account.",
+      "options": {
+        "a": "33,333.34",
+        "b": "233,333.34",
+        "c": "166,666.66",
+        "d": "3,333.34"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Under Liability Insurance policies, the types of bodily injury which the insurer agrees to pay on behalf of the insured include:",
+      "options": {
+        "a": "Bodily injury, death resulting from bodily injury",
+        "b": "Sickness or disease, death resulting from sickness or disease",
+        "c": "Bodily injury; sickness or disease; death resulting from any of these at any time",
+        "d": "All of above"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "When not named on the insurance policy, partners in a common law relationship will be entitled to coverage only when they are able to prove that:",
+      "options": {
+        "a": "They were living with the Named insured in a non-conjugal relationship outside marriage for a period not exceeding three years",
+        "b": "They were not living with the Named Insured in a non-conjugal relation outside marriage for a period of at least two years",
+        "c": "They were not living with the Named Insured for more than three years",
+        "d": "They were living with the Named Insured in a conjugal relationship outside marriage continuously for a period of three years"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "The Alberta Insurance Rating Board GRID rating program in Alberta:",
+      "options": {
+        "a": "Was developed to set maximum premiums that insurance companies can charge for basic coverages for any driving record",
+        "b": "Applies traditional underwriting criteria such as age, gender and marital status",
+        "c": "Does not consider the territory where the vehicle is used",
+        "d": "Does not base grid step based on past losses"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Statutory conditions are the rules of conduct that both the insured and insurer must abide by. Statutory Conditions:",
+      "options": {
+        "a": "Cannot be changed in any way via endorsement",
+        "b": "Can only be changed by legal endorsement designed specifically to override that condition",
+        "c": "Are legally binding",
+        "d": "None of the above"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which organization of experts will discuss contentious claims if and when the Insurance Bureau of Canada Intercompany Claims Settlement Agreement (also called IBC Fault Chart) cannot specifically define the situation?",
+      "options": {
+        "a": "There is no organization for this, it is always determined by IBC Agreement",
+        "b": "Canadian Insurance Claims Managers Association (CICMA)",
+        "c": "Canadian Insurance Condominium Insurance Act",
+        "d": "None of the above"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which organization is responsible for elevating the status of independent insurance intermediaries (brokers) by providing professional development and ethical standards?",
+      "options": {
+        "a": "Alberta Insurance Council",
+        "b": "Insurance Institute of Canada",
+        "c": "Insurance Brokers Association of Canada",
+        "d": "Canadian Insurance Claims Managers Association"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which of the following is NOT an activity that the Insurance Bureau of Canada is involved?",
+      "options": {
+        "a": "Development of advisory model policy wordings like you saw through this course",
+        "b": "Claims handling including claims arbitration",
+        "c": "Insurance crime-related investigative services",
+        "d": "Advocating industry positions with consumers, government and general public"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "The administration of the Canadian Inter-Company Arbitration Agreement is provided by:",
+      "options": {
+        "a": "Alberta Insurance Council",
+        "b": "Canadian Association of Direct Writers",
+        "c": "Canadian Insurance Claims Managers Association",
+        "d": "Insurance Brokers Association of Canada"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "You have been hired as a Risk Manager of a large company like Walmart. You are not too sure where to start. As a risk manager of this organization with several stores and potential for many losses, controlling risk means:",
+      "options": {
+        "a": "Measuring the frequency and severity of the exposures accurately",
+        "b": "Developing a plan to address loss prevention and reduction strategies including loss assumption or risk transfer methods",
+        "c": "Identifying exposures is your only role",
+        "d": "Purchasing insurance"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "In your new role with the large retailer, you must monitor current situation and modify the risk management plan continuously. The store is constantly changing inventories which may bring different risks. The clientele may change and have differing requirements and government regulations often change to set higher standards to protect the client. The market trends change and you should be monitoring and modifying the plans. Why is this necessary?",
+      "options": {
+        "a": "If it is determined that the change you implemented is not effective, further changes may be required",
+        "b": "New exposures could develop like selling garden tools when these were not previously sold",
+        "c": "Benchmarks used to measure outcomes may be unrealistic and require modification and updates",
+        "d": "All of the above"
+      },
+      "answer": "d"
+    }
+
+  ]
+}
